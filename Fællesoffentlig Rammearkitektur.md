@@ -127,7 +127,9 @@ Nedenstående figur illustrerer med en række eksempler, at arkitekten kan finde
 
 
 
-![Figur 3 Genbrugelige løsningsbyggeblokke.svg](G:\KTD\Arkitektur\FDA%20hjemmeside\SVG-illustrationer\Introduktion%20til%20Fællesoffentlig%20Rammearkitektur\Figur%203%20Genbrugelige%20løsningsbyggeblokke.svg)
+
+
+![Figur3.svg](C:\Users\B293098\Documents\github%20projekter\Faellesoffentlig-rammearkitektur\assets\Figur3.svg)
 
 Figur 3 Genbrugelige løsningsbyggeblokke  
 
