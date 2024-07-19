@@ -16,11 +16,11 @@ Rammearkitekturen er underlagt styring af styregruppen for data og arkitektur. P
 
 Denne introduktion svarer i fem kapitler på disse fem hovedspørgsmål:
 
-* **Hvad skal styregruppe, projektleder og arkitekt være opmærksomme på****?**
-* **Hvilke begreber og termer skal man kende for at forstå brugen af FDA****?**
-* **Hvad er indholdet i FDA Rammearkitektur****?**
-* **Hvad er det strategiske sigte med FDA og hvordan er vejen til realisering****?**
-* **Hvordan styres arkitekturen i spændet mellem løsning og FDA Rammearkitektur****?**
+* **Hvad skal styregruppe, projektleder og arkitekt være opmærksomme på?**
+* **Hvilke begreber og termer skal man kende for at forstå brugen af FDA?**
+* **Hvad er indholdet i FDA Rammearkitektur?**
+* **Hvad er det strategiske sigte med FDA og hvordan er vejen til realisering?**
+* **Hvordan styres arkitekturen i spændet mellem løsning og FDA Rammearkitektur?**
 
 Denne introduktion til den fællesoffentlige rammearkitektur forventes på baggrund af indhøstede erfaringer revideret omkring årsskiftet 2018/19.
 
@@ -30,7 +30,7 @@ Dette dokument giver en introduktion til den fællesoffentlige rammearkitektur (
 
 Den fællesoffentlige rammearkitektur er et fælles redskab til at støtte digitaliseringsprojekter i udviklingen af organisations- og løsningsspecifikke arkitekturer, som kan hænge sammen på tværs. Den er en fællesoffentligt aftalt tilgang til levering af offentlige forretnings- og it-services på en måde, så disse kan virke sammen.
 
-Scopet for FDA Rammearkitektur er defineret ved det til enhver tid gældende indhold, som er godkendt af styregruppen for data og arkitektur, som værende del af rammearkitekturen. Et samlet overblik vil blive publiceret og opdateret løbende på FDA’s hjemmesid[e](https://arkitektur.digst.dk/) [arkitektur.digst.dk](https://arkitektur.digst.dk/)[.](https://arkitektur.digst.dk/) 
+Scopet for FDA Rammearkitektur er defineret ved det til enhver tid gældende indhold, som er godkendt af styregruppen for data og arkitektur, som værende del af rammearkitekturen. Et samlet overblik vil blive publiceret og opdateret løbende på FDA’s hjemmeside [arkitektur.digst.dk](https://arkitektur.digst.dk/)[.](https://arkitektur.digst.dk/) 
 
 Dokumentet skal anvendes i forbindelse med projekter i regi af den fællesoffentlige digitaliseringsstrategi. Dokumentet opdateres i takt med, at der gøres erfaringer med arbejdet med FDA Rammearkitektur. 
 
@@ -80,8 +80,8 @@ Det fællesoffentlige samarbejde om arkitektur tager udgangspunkt i relevante IS
 
 * **Arkitekturbeskrivelse** – Omfatter identifikation af interessenter og deres interesser, definition af perspektiver på arkitekturen, der adresserer disse samt visninger af disse perspektiver. Visninger baseres på en arkitekturmodel, som definerer elementerne i arkitekturen og deres relationer og sammenhænge. Endelig skal beskrivelsen omfatte rationale for beslutninger.
 * **Arkitekturperspektiver** - Et sæt aftalte veldefinerede perspektiver på arkitekturen, som arkitekturdokumentationen skal tage udgangspunkt i og understøtte. Her tager det fællesoffentlige arkitekturarbejde udgangspunkt i otte perspektiver, som modsvarer hvidbogens otte principper: Styring, Strategi, Jura, Sikkerhed, Opgaver, Information, Applikation, Infrastruktur.
-* **Arkitekturrammeværk** – Et arkitekturrammeværk etablerer en fælles praksis for at skabe, fortolke, analysere og anvende arkitekturbeskrivelser. Det fællesoffentlige samarbejde tager her ligesom EU’s tilsvarende arbejde udgangspunkt i TOGAF [\[1\]](#Fodnote 1), som overordnet rammeværk og Archimate som grundlæggende referencemodel, som er åbne standarder i regi af Open Group. Desuden bygges der på EIF og EIRA [\[2\]](#Fodnote 2), som definerer en række elementer, der bygger videre på TOGAF og Archimate.
-* **Arkitekturbeskrivelsessprog** – Enhver form for udtryk, som anvendes til arkitekturbeskrivelser. I FDA sammenhæng anvendes især Archimate til overordnet beskrivelse af den samlede arkitektur, BPMN [\[3\]](#Fodnote 3) til at beskrive detaljerede arbejdsgange og UML [\[4\]](#Fodnote 4) til detaljeret beskrivelse af begreber, data, use cases mv. Archimate, BPMN og UML er formelle modelsprog, som skal sikre præcision, men kan være svære at forstå. Derfor kan de suppleres med mere enkle og letforståelige beskrivelser i tekst, billeder o.l.
+* **Arkitekturrammeværk** – Et arkitekturrammeværk etablerer en fælles praksis for at skabe, fortolke, analysere og anvende arkitekturbeskrivelser. Det fællesoffentlige samarbejde tager her ligesom EU’s tilsvarende arbejde udgangspunkt i TOGAF [\[1\]](#fodnoter), som overordnet rammeværk og Archimate som grundlæggende referencemodel, som er åbne standarder i regi af Open Group. Desuden bygges der på EIF og EIRA [\[2\]](#fodnoter), som definerer en række elementer, der bygger videre på TOGAF og Archimate.
+* **Arkitekturbeskrivelsessprog** – Enhver form for udtryk, som anvendes til arkitekturbeskrivelser. I FDA sammenhæng anvendes især Archimate til overordnet beskrivelse af den samlede arkitektur, BPMN [\[3\]](#fodnoter) til at beskrive detaljerede arbejdsgange og UML [\[4\]](#fodnoter) til detaljeret beskrivelse af begreber, data, use cases mv. Archimate, BPMN og UML er formelle modelsprog, som skal sikre præcision, men kan være svære at forstå. Derfor kan de suppleres med mere enkle og letforståelige beskrivelser i tekst, billeder o.l.
 
 Næste kapitel giver en introduktion til de centrale begreber i arkitekturarbejdet.
 
@@ -580,72 +580,4 @@ Figur 14 Procesmodel for livscyklus for FDA-elementer
 
 \[4\] UML: Universal Moddelling Language.
 
-[Permanent URL til artiklen: https://arkitektur.digst.dk/node/1177](https://arkitektur.digst.dk/node/1177)
 
-[Tilbage til toppen](#top)
-
-Opdateret 15. juli 2022
-
-DokumentinformationIndholdsfortegnelse
-
-* [Forord](#forord)
-* [Introduktion](#introduktion)
-* [Formål](#forml)
-* [Anvendelse](#anvendelse)
-  * [Projekternes arkitekturarbejde](#projekternes-arkitekturarbejde)
-    * [Styregruppens tjekliste](#styregruppens-tjekliste)
-    * [Projektlederens tjekliste](#projektlederens-tjekliste)
-  * [Løsningsarkitektens brug af FDA Rammearkitektur](#lsningsarkitektens-brug-af-fda-rammearkitektur)
-    * [Arkitektens tjekliste](#arkitektens-tjekliste)
-* [Begreber](#begreber)
-  * [De centrale begreber i arkitekturarbejdet](#de-centrale-begreber-i-arkitekturarbejdet) 
-    * [Analogi til byplan og byggevejledning](#analogi-til-byplan-og-byggevejledning)
-  * [Grundstruktur i FDA Rammearkitekturen](#grundstruktur-i-fda-rammearkitekturen)
-* [Indhold](#indhold)
-  * [Referencearkitekturer](#referencearkitekturer)
-  * [Byggeblokke](#byggeblokke)
-* [Strategi](#strategi)
-  * [Rammearkitekturens overordnede målbillede](#rammearkitekturens-overordnede-mlbillede)
-  * [Centrale udfordringer](#centrale-udfordringer)
-  * [Arkitekturtilgange](#arkitekturtilgange)
-    * [Forskellige tilgange til serviceorienteret løsningsarkitektur](#forskellige-tilgange-til-serviceorienteret-lsnings)
-  * [Vejen mod fælles mål](#vejen-mod-flles-ml)
-* [Styring](#styring)
-  * [Arkitekturstyring på forskellige niveauer](#arkitekturstyring-p-forskellige-niveauer)
-    * [EIF, EIRA og CEF Digital](#eif-eira-og-cef-digital)
-  * [God praksis for arkitekturarbejdet](#god-praksis-for-arkitekturarbejdet)
-  * [Styring i relation til FDA rammearkitektur](#styring-i-relation-til-fda-rammearkitektur)
-    * [Model for input til rammearkitekturen](#model-for-input-til-rammearkitekturen)
-    * [Model for FDA-elementers livscyklus](#model-for-fda-elementers-livscyklus)
-  * [Hovedprocesser for FDA rammearkitektur](#hovedprocesser-for-fda-rammearkitektur)
-    * [Proces for identifikation af kandidater til FDA](#proces-for-identifikation-af-kandidater-til-fda)
-    * [Proces for udvikling af elementer](#proces-for-udvikling-af-elementer)
-    * [Proces for udfasning af elementer](#proces-for-udfasning-af-elementer)
-    * [Procesmodel for livscyklus for FDA-elementer](#procesmodel-for-livscyklus-for-fda-elementer)
-* [Fodnoter](#fodnoter)
-
-Titel Introduktion til Fællesoffentlig Rammearkitektur
-
-Seneste opdateringsdato
-
-01\. juni 2018
-
-Arkitekturperspektiv
-
-Styring
-
-Dokument beskrivelse
-
-Introduktion til FDA Rammearkitektur giver en indføring i grundkoncepterne i forhold til den fællesoffentlige rammearkitektur, således at læseren har en overordnet forståelse af formål, centrale begreber, anvendelse, processer og øvrige rammer for styring og anvendelse af rammearkitekturens forskellige elementer.
-
-FDA Status
-
-Optaget
-
-Produktlivscyklus
-
-Forældet
-
-Versionsnummer
-
-1.0.1
