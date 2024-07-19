@@ -129,7 +129,9 @@ Nedenstående figur illustrerer med en række eksempler, at arkitekten kan finde
 
 
 
-![Figur3.svg](C:\Users\B293098\Documents\github%20projekter\Faellesoffentlig-rammearkitektur\assets\Figur3.svg)
+
+
+![Figur3.svg](assets/e00a7c0bc7520e113fba827018d439aac8745716.svg)
 
 Figur 3 Genbrugelige løsningsbyggeblokke  
 
