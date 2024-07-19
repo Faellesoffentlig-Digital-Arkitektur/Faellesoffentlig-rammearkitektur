@@ -48,7 +48,7 @@ Nedenstående figur illustrerer, at rammearkitekturen både er styret af og unde
 
 
 
-![Figur 1 Rammearkitekturens rolle.svg](C:\Users\B293098\Documents\github%20projekter\Faellesoffentlig-rammearkitektur\assets\Figur%201%20Rammearkitekturens%20rolle.svg)
+![Figur 1 Rammearkitekturens rolle.svg](C:\Users\B293098\Documents\github%20projekter\Faellesoffentlig-rammearkitektur\assets\Figur1.svg)
 
 Figur 1 Rammearkitekturens rolle
 
@@ -117,7 +117,7 @@ Desuden skal løsningsarkitekten orientere sig om FDA Rammearkitektur indeholder
 
 Løsningsarkitektens opgave er bl.a. at sætte FDA-byggeblokkene ind i egen kontekst og beskrive dette. Dette gøres ved at finde relevante arkitekturbyggeblokke i det fælles FDA-katalog over byggeblokke. 
 
-![Figur 2 viser, at arkitekten genbruger byggeblokke](C:\Users\B293098\Documents\github%20projekter\Faellesoffentlig-rammearkitektur\assets\Figur%202%20Arkitekten%20genbruger%20byggeblokke.svg)
+![Figur 2 viser, at arkitekten genbruger byggeblokke](C:\Users\B293098\Documents\github%20projekter\Faellesoffentlig-rammearkitektur\assets\Figur2.svg)
 
 Figur 2 Arkitekten genbruger byggeblokke
 
@@ -125,7 +125,9 @@ Når arkitekten har identificeret en FDA-arkitekturbyggeblok, tjekker arkitekten
 
 Nedenstående figur illustrerer med en række eksempler, at arkitekten kan finde byggeblokke indenfor alle arkitekturarbejdets hovedperspektiver.
 
-![image007](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%203.jpg)
+
+
+![Figur 3 Genbrugelige løsningsbyggeblokke.svg](G:\KTD\Arkitektur\FDA%20hjemmeside\SVG-illustrationer\Introduktion%20til%20Fællesoffentlig%20Rammearkitektur\Figur%203%20Genbrugelige%20løsningsbyggeblokke.svg)
 
 Figur 3 Genbrugelige løsningsbyggeblokke  
 
