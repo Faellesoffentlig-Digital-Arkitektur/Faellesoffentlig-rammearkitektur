@@ -48,7 +48,7 @@ Nedenstående figur illustrerer, at rammearkitekturen både er styret af og unde
 
 
 
-![Figur 1 Rammearkitekturens rolle.svg](C:\Users\B293098\Documents\github%20projekter\Faellesoffentlig-rammearkitektur\assets\Figur1.svg)
+![Figur1.svg](assets/29a23a61e7789c0fc6f5b5bc165784d82e5bb6f9.svg)
 
 Figur 1 Rammearkitekturens rolle
 
@@ -117,17 +117,15 @@ Desuden skal løsningsarkitekten orientere sig om FDA Rammearkitektur indeholder
 
 Løsningsarkitektens opgave er bl.a. at sætte FDA-byggeblokkene ind i egen kontekst og beskrive dette. Dette gøres ved at finde relevante arkitekturbyggeblokke i det fælles FDA-katalog over byggeblokke. 
 
-![Figur 2 viser, at arkitekten genbruger byggeblokke](C:\Users\B293098\Documents\github%20projekter\Faellesoffentlig-rammearkitektur\assets\Figur2.svg)
+
+
+![Figur2.svg](assets/c2aa5051a519be52a5bf7603d2114b5e7fd0b777.svg)
 
 Figur 2 Arkitekten genbruger byggeblokke
 
 Når arkitekten har identificeret en FDA-arkitekturbyggeblok, tjekker arkitekten, om der i kataloget også peges på en konkret løsningsbyggeblok, og om der er formelle krav til, at den skal, bør eller kan anvendes. 
 
-Nedenstående figur illustrerer med en række eksempler, at arkitekten kan finde byggeblokke indenfor alle arkitekturarbejdets hovedperspektiver..
-
-
-
-
+Nedenstående figur illustrerer med en række eksempler, at arkitekten kan finde byggeblokke indenfor alle arkitekturarbejdets hovedperspektiver.
 
 
 
@@ -200,7 +198,9 @@ En løsning kan i praksis være omfattet af målarkitektur på flere niveauer og
 
 Det er vigtigt for projekterne at kunne identificere hvilke fælles arkitektur og løsningsbyggeblokke, der findes og at kunne orientere sig i deres rolle i den samlede arkitektur. Derfor arbejdes der i FDA Rammearkitektur med to grundlæggende, samvirkende koncepter for struktur for byggeblokkene, der tager udgangspunkt i den begrebsmodel interoperabilitetsstyring og styring af integrerede offentlige tjenester, som er beskrevet i det fælleseuropæiske rammeværk for interoperabilitet (EIF), jf. nedenstående figur.
 
-![Figur 4 viser EIF begrebsmodel](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%204.jpg)
+
+
+![Figur 4.jpg](assets/4894f3117d8e34c4c0d1256c6259dcc01abbfb91.jpg)
 
 Figur 4 EIF begrebsmodel
 
@@ -219,7 +219,9 @@ Højre del af modellen kaldes også model over det digitale økosystem eller pop
 
 I FDA sammenhæng anvendes EIF-modellen i en lettere tilpasset form baseret på hvidbogens principper og de otte hovedperspektiver på arkitekturen, jf. nedenstående figur, der også viser, hvordan de otte FDA-perspektiver mappes til EIF. 
 
-![Figur 5 viser FDA profil af EIF begrebsmodel](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%205.jpg)
+
+
+![Figur5.svg](assets/6c825c1fa756f86f28d9671b5997c6fb8ee30be4.svg)
 
 Figur 5 FDA profil af EIF begrebsmodel
 
@@ -233,7 +235,9 @@ FDA Rammearkitektur kan betragtes som en samling af vejledninger om, hvordan man
 
 På overordnet niveau består rammearkitekturen af en række referencearkitekturer, som giver en fælles fortælling om, hvordan man laver digitale løsninger i form af principper, sprog og løsningsmønstre i forbindelse med digitalisering. På et detaljeret niveau består rammearkitekturen af byggeblokke i form af fx specifikationer og standarder og kan pege på løsninger og komponenter, der konkret udmønter dele af rammearkitekturen. Fx er MitID og NemLogin løsninger, der kan anvendes til at efterleve referencearkitektur for brugerstyring. 
 
-![Figur 6 viser de første FDA reference-arkitekturer](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%206.jpg)
+
+
+![Figur6.svg](assets/314d011d405c7b570798d9059ab7af2d49b26aac.svg)
 
 Figur 6 De første FDA reference-arkitekturer
 
@@ -273,17 +277,23 @@ De fælleskommunale byggeblokke har traditionelt haft fokus på sammensatte forr
 
 Personregistrering meget overord-net beskrevet med én byggeblok
 
-![Figuren viser en personregistrering meget overordnet](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%207a.jpg)
+
+
+![Figur7a.svg](assets/2ddad823b68317275b6977993ffb6ae7e6b90161.svg)
 
 Opgaven Personregistrering beskrevet med flere byggeblokke sat sammen
 
-![Figuren viser opgaven personregistrering beskrevet med flere byggeblokke sat sammen](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%207b.jpg)
+
+
+![Figur7b.svg](assets/8546191c500bb526aadcc21861dc97d13cced727.svg)
 
 Figur 7 Simpel byggeblok versus sammensat byggeblok
 
 Nedenstående figur er en visning, der mapper de vigtigste byggeblokke til den konceptuelle model for styring af offentlige integrerede services (spillepladen). Den giver et højniveau overblik over de vigtigste arkitekturbyggeblokke, som er identificeret i arbejdet med ovennævnte referencearkitekturer. Denne visning går på tværs af de otte hovedperspektiver og har fokus på byggeblokke, der vedrører hovedperspektiverne opgaver, information og applikation. Det bemærkes, at de basale EIRA byggeblokke ikke er synlige i denne visning.
 
-![Figur 8 viser eksempler på FDA byggeblokke](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%208.jpg)
+
+
+![Figur 8.jpg](assets/ff03e3dad218dd6da532d5dea5edadb110e7fefc.jpg)
 
 Figur 8 Eksempler på FDA byggeblokke vist (spilleplade-visning)
 
@@ -295,7 +305,9 @@ Den fællesoffentlige digitaliseringsstrategi 2016-2020 fastslår, at den grundl
 
 Hvidbog om arkitektur for digitalisering fastlægger en vision for den fællesoffentlige digitale arkitektur: **_Den digitalt sammenhængende offentlige sektor._** _Den fælles arkitektur for digitalisering skal på sikker vis understøtte tværgående processer og effektiv deling af data på tværs af myndigheder samt mellem den offentlige og den private sektor. Målet er, at borgerne og virksomhederne oplever en service, der er effektiv, sammenhængende, transparent og målrettet den enkeltes behov samt understøtter innovation, vækst og udvikling i samfundet._
 
-![Figur 9 viser visionen at brugergrænseflader og -rejser hænger sammen](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%209.jpg)
+
+
+![Figur9.svg](assets/6d1d0d50d2cf00b30fb463403ca0867013b16b45.svg)
 
 Figur 9 Vision: brugergrænseflader og -rejser der hænger sammen
 
@@ -344,7 +356,9 @@ Grundlæggende skal it-løsninger understøtte en serviceorienteret arkitekturst
 
 Nedenstående figur illustrerer et overordnet roadmap for, hvordan denne proces forventes at forløbe over de kommende år. Det er en vigtig pointe, at der er tale om en iterativ proces, hvor der hele tiden sker en læring og modning. Forretningsbehovene vil løbende flytte sig, både styret af politiske mål og brugerbehov. Og teknologien flytter sig til stadighed, således at nye muligheder opstår og gamle løsninger forældes.
 
-![Figur 10 viser roadmap for FDA rammearkitektur](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%2010.jpg)
+
+
+![Figur 10.jpg](assets/11ecb1095cc6a906be56e8f68804fd3b8a2de8a6.jpg)
 
 Figur 10 Roadmap for FDA rammearkitektur
 
@@ -352,7 +366,9 @@ Vejen frem til målbilledet skal ske gennem en migrationsstrategi, hvor de offen
 
 Nedenstående figur viser, hvordan der med udgangspunkt i den fællesoffentlige digitaliseringsstrategi og hvidbogen om fællesoffentlig digital arkitektur kan etableres sammenhængende løsninger.
 
-![Figur 11 Fra strategi over arkitektur til løsninger](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%2011.jpg)
+
+
+![Figur 11.jpg](assets/a838f1eff6c85777461d624e05728fe99a24ba8a.jpg)
 
 Figur 11 Fra strategi over arkitektur til løsninger
 
@@ -433,7 +449,9 @@ Det fællesoffentlige samarbejde om arkitektur og standarder er under løbende u
 
 Indholdet i FDA Rammearkitektur kommer fra forskellige steder, som kan opdeles i grundlæggende typer.
 
-![Figur 12 viser model for input til FDA rammearkitektur](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%2012.jpg)
+
+
+![Figur12.svg](assets/c20c4234a261c66324255e5f1cc9f2b7ae8a2440.svg)
 
 Figur 12 Model for input til FDA rammearkitektur
 
@@ -467,7 +485,9 @@ Sammenhængen mellem de fem kategorier er vist i nedenstående figur. 
 
 I det følgende gennemgås hver kategori i forhold til en række hovedprocesser, der understøtter den samlede livscyklus fra kandidat over udvikling og godkendelse af færdigt produkt til optagelse i FDA, anvendelse og endeligt til udfasning. Processen skal ikke forstås som en vandfaldsmodel. Hvis der fx opstår behov for at revidere en optaget standard, starter det en iteration, hvor ændringsforslag starter med at have status som kandidat, der kan derefter besluttes en revision, der afhængigt af omfang kan kræve en større eller mindre udviklingsindsats eventuelt i regi af et projekt. For at tage højde for at fx en standard eller en infrastrukturløsning kan forældes, er der indarbejdet en status for udfasning (terminering). 
 
-![Figur 13 viser Model for FDA-elementers livscyklus](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%2013.jpg)
+
+
+![Figur13.svg](assets/612f5e71eb3493a365e7dbf8a8a547bb17753bf6.svg)
 
 Figur 13 Model for FDA-elementers livscyklus
 
@@ -572,7 +592,9 @@ Udfasning skal varsles i god tid (efter nærmere aftale) og gennem publicering a
 
 De foregående processer danner tilsammen en procesmodel for livscyklus, som FDAelementerne gennemløber, illustreret i den efterfølgende figur.  
 
-![Figur 14 viser procesmodel for livscyklus for FDA-elementer](/sites/default/fileuploads/Om_FDA/Styring/Introduktion_til_rammearkitektur/Figur%2014.jpg)
+
+
+![Figur 14.jpg](assets/0312f544f7254612be9db3a431c9be6d7078cc4f.jpg)
 
 Figur 14 Procesmodel for livscyklus for FDA-elementer
 

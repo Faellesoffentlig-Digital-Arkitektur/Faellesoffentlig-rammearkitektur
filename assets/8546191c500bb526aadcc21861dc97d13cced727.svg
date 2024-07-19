@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180mm"
+   height="70mm"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Figur 7 Simpel byggeblok versus sammensat byggeblok.svg">
+  <defs
+     id="defs2987">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3157"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3084"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3070"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3064"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3084-7"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8683167"
+     inkscape:cx="372.14928"
+     inkscape:cy="103.08278"
+     inkscape:current-layer="layer1"
+     id="namedview2989"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2991">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#bdc1c2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.45378911;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3025"
+       width="315.5993"
+       height="20.775972"
+       x="13.797275"
+       y="11.769113" />
+    <rect
+       style="fill:#d3d7d9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.4205265;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3023"
+       width="636.94385"
+       height="199.31554"
+       x="13.780093"
+       y="31.906418"
+       ry="0" />
+    <g
+       id="g3179"
+       transform="translate(-366.80169,3.315957)">
+      <rect
+         style="fill:#ffffb5;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8751967;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3007"
+         width="176.82777"
+         height="62.814091"
+         x="403.918"
+         y="52.789974"
+         ry="18.216087" />
+      <rect
+         ry="18.216087"
+         y="140.89146"
+         x="403.91803"
+         height="62.814091"
+         width="176.82777"
+         id="rect3011"
+         style="fill:#ffffb5;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8751967;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="18.216087"
+         y="52.789974"
+         x="817.36163"
+         height="62.814091"
+         width="176.82777"
+         id="rect3013"
+         style="fill:#ffffb5;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8751967;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="18.216087"
+         y="140.8924"
+         x="612.36676"
+         height="62.814091"
+         width="176.82777"
+         id="rect3015"
+         style="fill:#ffffb5;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8751967;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         rx="0"
+         style="fill:#ffffb5;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8751967;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3017"
+         width="176.82777"
+         height="62.814091"
+         x="612.36731"
+         y="52.791611"
+         ry="18.216087" />
+      <rect
+         ry="18.216087"
+         y="140.8924"
+         x="817.36121"
+         height="62.814091"
+         width="176.82777"
+         id="rect3019"
+         style="fill:#ffffb5;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8751967;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         rx="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="492.00754"
+         y="69.999229"
+         id="text3042"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3044"
+           x="492.00754"
+           y="69.999229"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light">&lt;&lt;Forretnings-</tspan><tspan
+           sodipodi:role="line"
+           x="492.00754"
+           y="87.499229"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           id="tspan3046">service&gt;&gt;</tspan><tspan
+           sodipodi:role="line"
+           x="492.00754"
+           y="104.99923"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           id="tspan3048">personregistrering</tspan></text>
+      <rect
+         style="fill:#ffffb5;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.95423079;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3050"
+         width="21.71866"
+         height="13.04875"
+         x="550.22235"
+         y="61.929489"
+         ry="6.524375" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3052"
+         y="86.131195"
+         x="700.74634"
+         style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan3056"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           y="86.131195"
+           x="700.74634"
+           sodipodi:role="line">&lt;&lt;Forretningsobjekt&gt;&gt;</tspan><tspan
+           id="tspan3058"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           y="103.6312"
+           x="700.74634"
+           sodipodi:role="line">Person</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 611.97802,64.933247 177.11939,-0.407171 0,0"
+         inkscape:path-effect="#path-effect3070"
+         id="path3068"
+         d="m 611.97802,64.933247 177.11939,-0.407171 0,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="906.05017"
+         y="69.999229"
+         id="text3072"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="906.05017"
+           y="69.999229"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           id="tspan3074">&lt;&lt;Forretnings-</tspan><tspan
+           sodipodi:role="line"
+           x="906.05017"
+           y="87.499229"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           id="tspan3076">fuktion&gt;&gt;navne-</tspan><tspan
+           sodipodi:role="line"
+           x="906.05017"
+           y="104.99923"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           id="tspan3248">registrering</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 980.41842,61.667905 -7.7362,7.227285 0,8.754177 7.838,-6.921907 7.6344,7.125493 0,-0.101797 -0.2035,-9.364929 z"
+         inkscape:path-effect="#path-effect3084-7"
+         id="path3082"
+         d="m 980.41842,61.667905 -7.7362,7.227285 0,8.754177 7.838,-6.921907 7.6344,7.125493 c 10e-6,-0.03393 10e-6,-0.06786 0,-0.101797 -7.3e-4,-3.12262 -0.0686,-6.245225 -0.2035,-9.364929 l -7.5327,-6.718322"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3107"
+         y="158.10072"
+         x="492.00757"
+         style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           y="158.10072"
+           x="492.00757"
+           id="tspan3109"
+           sodipodi:role="line">&lt;&lt;Forretnings-</tspan><tspan
+           id="tspan3111"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           y="175.60072"
+           x="492.00757"
+           sodipodi:role="line">proces&gt;&gt;</tspan><tspan
+           id="tspan3113"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           y="193.10072"
+           x="492.00757"
+           sodipodi:role="line">navneregistrering</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3126"
+         d="m 764.27434,150.04218 c -0.9517,0 -1.8425,0.19931 -2.6562,0.5625 2.2738,1.01745 3.8437,3.30807 3.8437,5.96875 0,2.66068 -1.5699,4.92005 -3.8437,5.9375 0.8137,0.36319 1.7045,0.59375 2.6562,0.59375 l 8.6875,0 c 3.6145,0 6.5,-2.91675 6.5,-6.53125 0,-3.6145 -2.8855,-6.53125 -6.5,-6.53125 l -8.6875,0 z"
+         style="fill:#ffffb5;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.95423079;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="700.43066"
+         y="159.56834"
+         id="text3131"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3133"
+           x="700.43066"
+           y="159.56834"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light">&lt;&lt;Forretnings-</tspan><tspan
+           id="tspan3141"
+           sodipodi:role="line"
+           x="702.00293"
+           y="177.06834"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light">hændelse&gt;&gt; navn </tspan><tspan
+           id="tspan3145"
+           sodipodi:role="line"
+           x="700.43066"
+           y="194.56834"
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light">ændret</tspan></text>
+      <g
+         transform="translate(-1094.0684,-28.094799)"
+         id="g3159">
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3153"
+           sodipodi:cx="2076.9792"
+           sodipodi:cy="183.01283"
+           sodipodi:rx="6.1075649"
+           sodipodi:ry="5.7003942"
+           d="m 2083.0868,183.01283 c 0,3.14824 -2.7344,5.7004 -6.1076,5.7004 -3.3731,0 -6.1075,-2.55216 -6.1075,-5.7004 0,-3.14824 2.7344,-5.70039 6.1075,-5.70039 3.3732,0 6.1076,2.55215 6.1076,5.70039 z"
+           transform="translate(0,-0.81434201)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 2060.9396,181.73894 9.8043,-0.18313"
+           id="path3155"
+           inkscape:path-effect="#path-effect3157"
+           inkscape:original-d="m 2060.9396,181.73894 9.8043,-0.18313"
+           inkscape:connector-curvature="0"
+           inkscape:transform-center-y="0.591565" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3163"
+         y="159.61363"
+         x="905.62592"
+         style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           y="159.61363"
+           x="905.62592"
+           id="tspan3165"
+           sodipodi:role="line">&lt;&lt;Forretnings-</tspan><tspan
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           y="177.11363"
+           x="907.19818"
+           sodipodi:role="line"
+           id="tspan3167">snitflade&gt;&gt; teknisk </tspan><tspan
+           style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+           y="194.61363"
+           x="905.62592"
+           sodipodi:role="line"
+           id="tspan3169">API</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="92.352966"
+       y="26.961594"
+       id="text3171"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3173"
+         x="92.352966"
+         y="26.961594"
+         style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light">Personregistrering (CPR)</tspan><tspan
+         sodipodi:role="line"
+         x="92.352966"
+         y="44.461594"
+         style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+         id="tspan3175" /><tspan
+         sodipodi:role="line"
+         x="92.352966"
+         y="61.961594"
+         style="font-size:14px;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+         id="tspan3177" /></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.19795835"
+       d="m 198.96757,153.71831 0,2.0759 -13.22415,0 0,6.64991 13.14461,0 0,1.93515 7.96636,-5.41844 -7.88682,-5.24252 z"
+       id="rect3216" />
+  </g>
+</svg>
