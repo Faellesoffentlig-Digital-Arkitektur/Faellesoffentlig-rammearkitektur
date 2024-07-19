@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Figur 12 Model for input til FDA rammearkitektur.svg">
+  <defs
+     id="defs2987">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3047"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3043"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3039"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43415836"
+     inkscape:cx="584.69258"
+     inkscape:cy="642.08665"
+     inkscape:current-layer="layer1"
+     id="namedview2989"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2991">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Bold;-inkscape-font-specification:Paralucent Bold"
+       x="160.04871"
+       y="83.045364"
+       id="text3005"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3007"
+         x="160.04871"
+         y="83.045364"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Paralucent Medium;-inkscape-font-specification:'Paralucent Medium,'">Kilde</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3009"
+       y="76.135445"
+       x="509.98724"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Bold;-inkscape-font-specification:Paralucent Bold"
+       xml:space="preserve"><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Paralucent Medium;-inkscape-font-specification:'Paralucent Medium,'"
+         y="76.135445"
+         x="509.98724"
+         id="tspan3011"
+         sodipodi:role="line">Element</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Bold;-inkscape-font-specification:Paralucent Bold"
+       x="862.73627"
+       y="73.832138"
+       id="text3013"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3015"
+         x="862.73627"
+         y="73.832138"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Paralucent Medium;-inkscape-font-specification:'Paralucent Medium,'">Behandling</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3017"
+       width="281.00345"
+       height="131.2885"
+       x="20.729763"
+       y="117.59496"
+       ry="31.094645" />
+    <rect
+       ry="31.094645"
+       y="343.31903"
+       x="20.729763"
+       height="131.2885"
+       width="281.00345"
+       id="rect3019"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3021"
+       width="281.00345"
+       height="131.2885"
+       x="20.729763"
+       y="569.04315"
+       ry="31.094645" />
+    <rect
+       ry="34.320198"
+       y="110.78547"
+       x="723.33881"
+       height="144.90749"
+       width="280.80261"
+       id="rect3029"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       ry="34.320198"
+       y="559.93036"
+       x="723.33881"
+       height="144.90749"
+       width="280.80261"
+       id="rect3033"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 301.73322,185.54253 419.20188,0"
+       id="path3037"
+       inkscape:path-effect="#path-effect3039"
+       inkscape:original-d="m 301.73322,185.54253 419.20188,0"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="0"
+       y="97.138145"
+       x="371.10538"
+       height="169.89882"
+       width="280.45755"
+       id="rect3023"
+       style="fill:#cfe2f3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 301.73322,409.53912 420.35353,-1.15166"
+       id="path3041"
+       inkscape:path-effect="#path-effect3043"
+       inkscape:original-d="m 301.73322,409.53912 420.35353,-1.15166"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#cfe2f3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3025"
+       width="280.45755"
+       height="169.89882"
+       x="371.10641"
+       y="324.01389"
+       ry="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 301.73322,634.6874 419.20188,1.15165"
+       id="path3045"
+       inkscape:path-effect="#path-effect3047"
+       inkscape:original-d="m 301.73322,634.6874 419.20188,1.15165"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="0"
+       y="550.88965"
+       x="371.10538"
+       height="169.89882"
+       width="280.45755"
+       id="rect3027"
+       style="fill:#cfe2f3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="161.16313"
+       y="193.09662"
+       id="text3049"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3051"
+         x="161.16313"
+         y="193.09662"
+         style="font-size:28px;-inkscape-font-specification:Paralucent Medium;font-family:Paralucent Medium">Ekstern</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3053"
+       y="416.20938"
+       x="160.38383"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:28px;-inkscape-font-specification:Paralucent Medium;font-family:Paralucent Medium"
+         y="416.20938"
+         x="160.38383"
+         id="tspan3055"
+         sodipodi:role="line">FODS projekt</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3057"
+       y="644.5448"
+       x="161.16313"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:28px;-inkscape-font-specification:Paralucent Medium;font-family:Paralucent Medium"
+         y="644.5448"
+         x="161.16313"
+         id="tspan3059"
+         sodipodi:role="line">Ekstern</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3061"
+       y="157.88799"
+       x="511.88348"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:28px;text-align:center;text-anchor:middle;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+         y="157.88799"
+         x="511.88348"
+         id="tspan3063"
+         sodipodi:role="line">Vilkårs og</tspan><tspan
+         style="font-size:28px;text-align:center;text-anchor:middle;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+         y="192.88799"
+         x="511.88348"
+         sodipodi:role="line"
+         id="tspan3065">forudsætnings-</tspan><tspan
+         style="font-size:28px;text-align:center;text-anchor:middle;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+         y="227.88799"
+         x="511.88348"
+         sodipodi:role="line"
+         id="tspan3067">element</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="510.71643"
+       y="415.83722"
+       id="text3069"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3075"
+         sodipodi:role="line"
+         x="510.71643"
+         y="415.83722"
+         style="font-size:28px;text-align:center;text-anchor:middle;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light">Egenudviklet element</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3082"
+       y="642.93695"
+       x="511.63937"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:28px;text-align:center;text-anchor:middle;font-family:Paralucent Light;-inkscape-font-specification:Paralucent Light"
+         y="642.93695"
+         x="511.63937"
+         sodipodi:role="line"
+         id="tspan3084">Adopteret element</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="863.69971"
+       y="144.30888"
+       id="text3086"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3092"
+         sodipodi:role="line"
+         x="863.69971"
+         y="144.30888"
+         style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium">Dokumentation v.</tspan><tspan
+         sodipodi:role="line"
+         x="863.69971"
+         y="174.30888"
+         style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+         id="tspan3099">sekrateriat for initiativ</tspan><tspan
+         sodipodi:role="line"
+         x="863.69971"
+         y="204.30888"
+         style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+         id="tspan3101">B.1. kræver ikke</tspan><tspan
+         sodipodi:role="line"
+         x="863.69971"
+         y="234.30888"
+         style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+         id="tspan3103">godkendelse</tspan></text>
+    <g
+       id="g3166"
+       transform="translate(0,1.1516063)">
+      <rect
+         ry="38.112846"
+         y="327.35123"
+         x="723.39362"
+         height="160.92091"
+         width="281.36749"
+         id="rect3031"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.10973144;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="864.72003"
+         y="353.88135"
+         id="text3105"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="864.72003"
+           y="353.88135"
+           style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+           id="tspan3113">Udvikling/</tspan><tspan
+           id="tspan3124"
+           sodipodi:role="line"
+           x="864.72003"
+           y="383.88135"
+           style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium">serviceeftersyn ved</tspan><tspan
+           id="tspan3126"
+           sodipodi:role="line"
+           x="864.72003"
+           y="413.88135"
+           style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium">FODS-projekt +</tspan><tspan
+           id="tspan3128"
+           sodipodi:role="line"
+           x="864.72003"
+           y="443.88135"
+           style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium">leverancen</tspan><tspan
+           id="tspan3130"
+           sodipodi:role="line"
+           x="864.72003"
+           y="473.88135"
+           style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium">godkendes af SDA</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="864.01807"
+       y="595.94598"
+       id="text3132"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3142"
+         sodipodi:role="line"
+         x="864.01807"
+         y="595.94598"
+         style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium">Serviceeftersyn v</tspan><tspan
+         sodipodi:role="line"
+         x="864.01807"
+         y="625.94598"
+         style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+         id="tspan3158">FODS-projekt +</tspan><tspan
+         sodipodi:role="line"
+         x="864.01807"
+         y="655.94598"
+         style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+         id="tspan3160">adoption godkendes</tspan><tspan
+         sodipodi:role="line"
+         x="864.01807"
+         y="685.94598"
+         style="font-size:24px;text-align:center;text-anchor:middle;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+         id="tspan3162">af SDA</tspan></text>
+  </g>
+</svg>
