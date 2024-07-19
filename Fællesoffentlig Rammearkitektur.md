@@ -123,7 +123,7 @@ Figur 2 Arkitekten genbruger byggeblokke
 
 Når arkitekten har identificeret en FDA-arkitekturbyggeblok, tjekker arkitekten, om der i kataloget også peges på en konkret løsningsbyggeblok, og om der er formelle krav til, at den skal, bør eller kan anvendes. 
 
-Nedenstående figur illustrerer med en række eksempler, at arkitekten kan finde byggeblokke indenfor alle arkitekturarbejdets hovedperspektiver.
+Nedenstående figur illustrerer med en række eksempler, at arkitekten kan finde byggeblokke indenfor alle arkitekturarbejdets hovedperspektiver..
 
 
 
