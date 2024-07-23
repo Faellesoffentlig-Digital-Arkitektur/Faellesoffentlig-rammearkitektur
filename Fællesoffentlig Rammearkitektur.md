@@ -44,8 +44,6 @@ Sagt med andre ord skal FDA Rammearkitektur være et redskab til gode arkitektur
 
 Nedenstående figur illustrerer, at rammearkitekturen både er styret af og understøtter fælles forretningsmål og sætter rammer for og understøtter udvikling af it-løsninger til fælles og lokale projekter, som er underlagt den fælles styringsramme.
 
-
-
 ![Figur1.svg](assets/29a23a61e7789c0fc6f5b5bc165784d82e5bb6f9.svg)
 
 *Figur 1 Rammearkitekturens rolle*
@@ -117,15 +115,13 @@ Løsningsarkitektens opgave er bl.a. at sætte FDA-byggeblokkene ind i egen kont
 
 
 
-![Figur2.svg](assets/c2aa5051a519be52a5bf7603d2114b5e7fd0b777.svg)
+![Figur 2 Arkitekten genbruger byggeblokke.svg](assets/419d2c55b2390e871817b802dede32ec6fd6c2b4.svg)
 
 *Figur 2 Arkitekten genbruger byggeblokke*
 
 Når arkitekten har identificeret en FDA-arkitekturbyggeblok, tjekker arkitekten, om der i kataloget også peges på en konkret løsningsbyggeblok, og om der er formelle krav til, at den skal, bør eller kan anvendes. 
 
 Nedenstående figur illustrerer med en række eksempler, at arkitekten kan finde byggeblokke indenfor alle arkitekturarbejdets hovedperspektiver.
-
-
 
 ![Figur3.svg](assets/e00a7c0bc7520e113fba827018d439aac8745716.svg)
 
@@ -198,7 +194,7 @@ Det er vigtigt for projekterne at kunne identificere hvilke fælles arkitektur o
 
 
 
-![Figur 4.jpg](assets/4894f3117d8e34c4c0d1256c6259dcc01abbfb91.jpg)
+![Figur4.svg](assets/c474b86ad2882bcca413630cfb0d6ba382a3709c.svg)
 
 *Figur 4 EIF begrebsmodel*
 
@@ -217,8 +213,6 @@ Højre del af modellen kaldes også model over det digitale økosystem eller pop
 
 I FDA sammenhæng anvendes EIF-modellen i en lettere tilpasset form baseret på hvidbogens principper og de otte hovedperspektiver på arkitekturen, jf. nedenstående figur, der også viser, hvordan de otte FDA-perspektiver mappes til EIF. 
 
-
-
 ![Figur5.svg](assets/6c825c1fa756f86f28d9671b5997c6fb8ee30be4.svg)
 
 *Figur 5 FDA profil af EIF begrebsmodel*
@@ -232,10 +226,6 @@ FDA Rammearkitektur kan betragtes som en samling af vejledninger om, hvordan man
 ### Referencearkitekturer
 
 På overordnet niveau består rammearkitekturen af en række referencearkitekturer, som giver en fælles fortælling om, hvordan man laver digitale løsninger i form af principper, sprog og løsningsmønstre i forbindelse med digitalisering. På et detaljeret niveau består rammearkitekturen af byggeblokke i form af fx specifikationer og standarder og kan pege på løsninger og komponenter, der konkret udmønter dele af rammearkitekturen. Fx er MitID og NemLogin løsninger, der kan anvendes til at efterleve referencearkitektur for brugerstyring. 
-
-
-
-
 
 ![Figur6.svg](assets/314d011d405c7b570798d9059ab7af2d49b26aac.svg)
 
@@ -277,13 +267,9 @@ De fælleskommunale byggeblokke har traditionelt haft fokus på sammensatte forr
 
 Personregistrering meget overord-net beskrevet med én byggeblok
 
-
-
 ![Figur7a.svg](assets/2ddad823b68317275b6977993ffb6ae7e6b90161.svg)
 
 Opgaven Personregistrering beskrevet med flere byggeblokke sat sammen
-
-
 
 ![Figur7b.svg](assets/8546191c500bb526aadcc21861dc97d13cced727.svg)
 
@@ -293,7 +279,7 @@ Nedenstående figur er en visning, der mapper de vigtigste byggeblokke til den k
 
 
 
-![Figur 8.jpg](assets/ff03e3dad218dd6da532d5dea5edadb110e7fefc.jpg)
+![Figur8.svg](assets/1040253fa5504ec3454d61389f7bef33e5889724.svg)
 
 *Figur 8 Eksempler på FDA byggeblokke vist (spilleplade-visning)*
 
@@ -304,8 +290,6 @@ Hvad er det strategiske sigte med FDA og hvordan er vejen til realisering?
 Den fællesoffentlige digitaliseringsstrategi 2016-2020 fastslår, at den grundlæggende målsætning er: **_Det digitale skal være let, hurtigt og sikre god kvalitet._** 
 
 Hvidbog om arkitektur for digitalisering fastlægger en vision for den fællesoffentlige digitale arkitektur: **_Den digitalt sammenhængende offentlige sektor._** _Den fælles arkitektur for digitalisering skal på sikker vis understøtte tværgående processer og effektiv deling af data på tværs af myndigheder samt mellem den offentlige og den private sektor. Målet er, at borgerne og virksomhederne oplever en service, der er effektiv, sammenhængende, transparent og målrettet den enkeltes behov samt understøtter innovation, vækst og udvikling i samfundet._
-
-
 
 ![Figur9.svg](assets/6d1d0d50d2cf00b30fb463403ca0867013b16b45.svg)
 
@@ -358,7 +342,7 @@ Nedenstående figur illustrerer et overordnet roadmap for, hvordan denne proces 
 
 
 
-![Figur 10.jpg](assets/11ecb1095cc6a906be56e8f68804fd3b8a2de8a6.jpg)
+![Figur10.svg](assets/70e93a9ded91cb617915d45a74b6cb2952c5ffb6.svg)
 
 *Figur 10 Roadmap for FDA rammearkitektur*
 
@@ -368,7 +352,7 @@ Nedenstående figur viser, hvordan der med udgangspunkt i den fællesoffentlige 
 
 
 
-![Figur 11.jpg](assets/a838f1eff6c85777461d624e05728fe99a24ba8a.jpg)
+![Figur11.svg](assets/0b6d67837e4024b0fd272835ed69a7a9fd35be45.svg)
 
 *Figur 11 Fra strategi over arkitektur til løsninger*
 
@@ -449,8 +433,6 @@ Det fællesoffentlige samarbejde om arkitektur og standarder er under løbende u
 
 Indholdet i FDA Rammearkitektur kommer fra forskellige steder, som kan opdeles i grundlæggende typer.
 
-
-
 ![Figur12.svg](assets/c20c4234a261c66324255e5f1cc9f2b7ae8a2440.svg)
 
 *Figur 12 Model for input til FDA rammearkitektur*
@@ -484,8 +466,6 @@ Udfases er en status, der tildeles af SDA til elementer, der tidligere har haft 
 Sammenhængen mellem de fem kategorier er vist i nedenstående figur. 
 
 I det følgende gennemgås hver kategori i forhold til en række hovedprocesser, der understøtter den samlede livscyklus fra kandidat over udvikling og godkendelse af færdigt produkt til optagelse i FDA, anvendelse og endeligt til udfasning. Processen skal ikke forstås som en vandfaldsmodel. Hvis der fx opstår behov for at revidere en optaget standard, starter det en iteration, hvor ændringsforslag starter med at have status som kandidat, der kan derefter besluttes en revision, der afhængigt af omfang kan kræve en større eller mindre udviklingsindsats eventuelt i regi af et projekt. For at tage højde for at fx en standard eller en infrastrukturløsning kan forældes, er der indarbejdet en status for udfasning (terminering). 
-
-
 
 ![Figur13.svg](assets/612f5e71eb3493a365e7dbf8a8a547bb17753bf6.svg)
 
@@ -594,7 +574,7 @@ De foregående processer danner tilsammen en procesmodel for livscyklus, som FDA
 
 
 
-![Figur 14.jpg](assets/0312f544f7254612be9db3a431c9be6d7078cc4f.jpg)
+![Figur14.svg](assets/051c7098bca5e727f4ccf02cd99bf12d1c4fb87a.svg)
 
 *Figur 14 Procesmodel for livscyklus for FDA-elementer*
 
@@ -607,5 +587,3 @@ De foregående processer danner tilsammen en procesmodel for livscyklus, som FDA
 \[3\] BPMN: Business process Modelling notation.
 
 \[4\] UML: Universal Moddelling Language.
-
-

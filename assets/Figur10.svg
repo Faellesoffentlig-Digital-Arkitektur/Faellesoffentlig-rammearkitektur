@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="280mm"
+   height="180mm"
+   id="svg10122"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Figur 10 Roadmap for FDA rammearkitektur.svg">
+  <defs
+     id="defs10124" />
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61399264"
+     inkscape:cx="818.21819"
+     inkscape:cy="331.55179"
+     inkscape:current-layer="layer1"
+     id="namedview10126"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata10128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 670.46925,164.86276 4.35776,0.54472 10.89442,3.26832 -3.26832,3.81304 -5.44721,4.90249 -2.17889,1.63416 -2.17887,-0.54472 0.54472,-2.17889 2.7236,-2.7236 -4.35777,0.54473 -263.10012,62.09815 -260.9212,61.55344 -115.480787,27.23604 -16.34162,3.81304 h -1.634162 v -3.26832 l 110.578289,-26.1466 355.70261,-83.88698 193.92059,-45.75654 1.08945,-0.54472 -4.90249,-1.63416 -0.54472,-1.63417 z"
+       id="path6157"
+       inkscape:connector-curvature="0"
+       style="fill:#4274c1" />
+    <path
+       d="m 740.37816,219.33482 h 0.54472 l -0.54472,6.53665 -1.08945,7.62609 -0.54472,1.08944 -2.7236,-0.54472 v -5.4472 l -5.99193,7.62608 -7.62609,9.80497 -5.99193,7.62609 -5.44721,7.08138 -53.38262,68.6348 -5.99193,7.62608 -7.62608,9.80498 -5.44721,7.08135 -15.25218,19.60995 -5.99193,7.62608 -7.62609,9.80498 -5.44721,7.08136 -22.87826,29.41492 -5.99193,7.62609 -5.44721,7.08137 -5.99192,7.62609 -5.44721,7.08137 -5.99193,7.62609 -7.62609,9.80497 -5.44721,7.08137 -7.62608,9.80497 -5.99193,7.62609 -5.44721,7.08137 -7.62609,9.80497 -5.99193,7.62609 -7.62609,9.80497 -5.44726,7.08138 -5.9919,7.62608 -5.44721,7.08137 -5.99192,7.6261 -5.44721,7.08136 -22.87826,29.41492 -5.99193,7.62608 -15.25218,19.60995 -3.26833,4.35777 -2.7236,-1.08945 1.08945,-2.72359 7.08136,-8.71554 5.4472,-7.08137 22.87828,-29.41492 7.08137,-9.26024 11.98385,-15.25218 15.25215,-19.60995 5.44726,-7.08136 5.99193,-7.6261 5.4472,-7.08137 5.99193,-7.62608 7.6261,-9.80497 7.08136,-9.26026 5.99193,-7.62609 22.87827,-29.41492 5.99193,-7.62608 15.25217,-19.60995 5.44721,-7.08137 5.99193,-7.62609 7.62608,-9.80497 7.08138,-9.26025 6.53665,-8.17081 5.4472,-7.08138 15.25218,-19.60994 7.08137,-9.26023 6.53664,-8.17081 10.89442,-14.16274 5.99192,-7.62609 61.00872,-78.43977 7.08138,-9.26025 2.17887,-2.72361 -3.81304,1.08944 -2.72361,-0.54472 0.54472,-2.17889 z"
+       id="path6173"
+       inkscape:connector-curvature="0"
+       style="fill:#4274c1" />
+    <path
+       d="m 456.04315,356.94601 0.54472,1.63416 -4.90248,11.98386 -2.72361,0.54472 -0.54472,-1.08944 1.63416,-5.44721 -8.17081,6.53665 -8.71553,6.53665 -7.6261,5.99192 -19.60994,15.25219 -9.26025,7.08136 -3.26833,2.17889 -1.63415,-2.72361 8.1708,-6.53664 9.26025,-7.08137 9.80498,-7.6261 7.08137,-5.4472 9.80497,-7.62609 7.08137,-5.44721 4.35776,-3.26833 0.54472,-1.08943 -1.08944,0.54471 h -4.90248 l -0.54473,-1.63415 0.54473,-1.08945 5.99192,-1.08944 z"
+       id="path6179"
+       inkscape:connector-curvature="0"
+       style="fill:#4274c1" />
+    <path
+       d="m 289.70518,445.41098 h 8.71552 l 14.16275,0.54472 -0.54473,2.72361 -2.7236,3.81304 -0.54472,5.44721 2.17888,4.35776 4.35777,2.72361 h 5.99192 l 4.35777,-2.17888 2.17888,-3.26833 0.54473,-4.90248 -1.63417,-4.35777 -2.17889,-2.7236 v -1.08945 l 1.08945,-0.54472 8.17081,-0.54472 h 15.7969 v 25.60188 l -1.63416,3.26832 -3.26832,-1.63416 -3.81305,-2.17888 h -4.90249 l -3.26832,2.17888 -1.63417,2.17888 -0.54472,1.63417 v 5.99192 l 2.17889,3.81305 2.7236,1.63415 h 5.99193 l 4.90248,-3.26832 2.72361,0.54472 0.54472,1.08945 v 22.87826 l -20.69938,0.54472 -4.35778,1.63417 -0.54472,0.54472 v 3.26832 l 2.72361,3.81305 0.54472,4.90248 -1.63416,3.26833 -3.26832,2.17888 -4.35777,0.54472 -3.26833,-1.63416 -2.17887,-2.72361 -0.54473,-1.08943 v -4.35778 l 3.26833,-5.99192 -0.54473,-2.7236 -4.90248,-1.63417 -20.69939,-0.54472 -0.54472,-22.33354 -1.63416,-3.26833 -3.81304,-0.54472 -4.90249,3.26833 -3.81304,0.54472 -3.26833,-1.63417 -2.17888,-4.35776 0.54472,-4.35776 2.17888,-2.72361 1.08944,-0.54472 h 4.90249 l 4.35776,3.26833 h 4.90249 l 1.63416,-2.72361 0.54472,-27.78076 z"
+       id="path6149"
+       inkscape:connector-curvature="0"
+       style="fill:#bb0468" />
+    <path
+       d="m 253.75361,426.34576 h 5.44721 l 2.7236,2.17889 1.08944,2.17888 v 4.90248 l -2.72361,3.81304 v 4.35778 l 3.26833,1.08943 21.78883,0.54472 0.54472,0.54472 v 26.69132 l -0.54472,1.08944 -2.72361,-0.54472 -3.81304,-2.7236 h -7.08137 l -2.7236,1.63415 -2.17889,3.81306 -0.54472,4.90248 1.63417,4.90249 3.26832,2.7236 2.72361,1.08944 4.90248,-0.54472 5.44721,-3.26832 h 1.08944 l 0.54472,2.17887 v 21.24411 h -21.78882 l -1.08945,-0.54471 0.54472,-3.26833 2.7236,-4.90249 v -4.90248 l -1.63415,-2.7236 -3.81305,-2.17889 h -6.53665 l -3.81305,2.17889 -1.63415,3.26832 v 4.35776 l 2.7236,5.44721 0.54472,2.72361 -0.54472,0.54471 h -23.96772 l -0.54471,-20.15466 -1.63416,-4.90249 -2.72361,-0.54472 -5.44721,3.26833 h -4.90248 l -3.26833,-2.17889 -2.7236,-3.81304 v -3.26833 l 3.26833,-4.35776 2.7236,-1.63417 h 4.35777 l 5.99192,3.26833 h 2.72361 l 1.63416,-4.35776 0.54471,-25.05716 h 22.33355 l 2.72361,-1.63415 0.54472,-3.26833 -3.81305,-6.53664 v -3.26833 l 1.63417,-2.7236 z"
+       id="path6151"
+       inkscape:connector-curvature="0"
+       style="fill:#fe8005" />
+    <path
+       d="m 289.70518,386.58115 h 22.33354 l 2.17888,1.63416 -0.54472,2.72361 -2.7236,3.81304 v 6.53665 l 2.17889,3.26832 3.26832,1.63417 h 5.99193 l 3.26832,-1.63417 2.17888,-2.72359 0.54473,-1.08945 v -5.44721 l -3.81306,-5.99192 2.17889,-2.17889 3.26832,-0.54472 h 19.06523 l 0.54472,2.72361 v 16.34162 l 1.08944,5.99193 1.08944,1.08943 3.81305,-0.54471 4.35776,-2.72361 h 4.35777 l 3.26832,2.17889 1.08944,1.08943 0.54472,5.99193 -1.63416,3.81305 -4.35777,2.17888 -3.81304,-0.54472 -3.81304,-2.7236 -3.26833,-0.54473 -2.17888,2.17889 -0.54472,2.17888 v 16.34162 l -0.54472,0.54472 -21.78883,0.54472 -4.90248,1.63417 -0.54472,3.81304 3.26832,5.99193 v 4.35776 l -2.7236,2.7236 -2.17889,1.08944 h -3.81304 l -2.72361,-1.63415 -1.63416,-2.17889 v -4.35776 l 3.81305,-5.99193 -0.54472,-3.26833 -1.63417,-1.63416 -1.63416,-0.54472 -22.87827,-0.54472 v -13.61801 l 0.54473,-4.35777 2.72359,1.08944 2.72361,1.63416 h 7.08137 l 3.26832,-2.17888 2.17889,-3.26832 0.54471,-1.63417 v -5.44721 l -3.26832,-4.90248 -3.26832,-1.63417 h -4.90248 l -4.9025,2.72361 -2.17887,1.08945 -1.08945,-3.81306 v -9.26024 l 0.54472,-11.43914 z"
+       id="path6153"
+       inkscape:connector-curvature="0"
+       style="fill:#0691d1" />
+    <path
+       d="m 254.29833,366.42649 h 4.90249 l 3.26832,2.17888 1.63417,2.17888 0.54472,4.90248 -3.26833,5.99193 v 2.72361 l 3.26833,1.63416 21.2441,0.54472 v 22.87827 l 1.63416,4.35776 3.81305,0.54472 5.99192,-3.81304 h 3.26833 l 2.7236,1.63417 2.17888,4.35776 -0.54472,3.81304 -2.7236,3.26832 -1.63416,0.54473 h -3.81304 l -2.72361,-1.63416 -1.63417,-1.08944 h -3.81304 l -1.63416,2.17887 -0.54472,1.63417 -0.54472,16.88634 h -21.78882 l -1.08945,-0.54472 1.08945,-2.7236 1.63415,-3.26833 v -5.44721 l -2.17888,-4.35776 -3.81305,-2.17889 -4.90248,-0.54471 -4.35777,1.63416 -2.7236,3.26833 -1.08944,2.17887 v 4.35777 l 3.81304,6.53665 v 1.08944 l -1.08944,0.54472 h -14.16273 l -7.6261,-0.54472 -0.54471,-7.62609 v -10.89442 l 1.63416,-1.08943 2.7236,0.54472 2.7236,2.17888 1.63417,0.54472 h 4.90248 l 3.26832,-2.17889 2.17889,-3.26832 v -6.53665 l -1.63416,-2.7236 v -1.08944 l -3.26833,-1.63416 h -5.4472 l -3.26832,1.63416 -2.17889,1.63417 -2.72361,-0.54473 -0.54471,-1.08944 v -23.42299 l 21.78883,-0.54472 3.26832,-1.63416 0.54472,-2.72361 -3.26833,-5.4472 v -4.90249 l 2.17889,-3.26832 z"
+       id="path6155"
+       inkscape:connector-curvature="0"
+       style="fill:#769810" />
+    <path
+       style="fill:#1b3e9c"
+       inkscape:connector-curvature="0"
+       id="path6145"
+       d="m 485.51101,224.71299 5.4472,0 3.81304,2.17889 1.63416,3.26832 -0.54471,3.26833 -1.08945,3.26832 12.52857,-1.08945 0,1.08945 4.9025,0 1.63415,11.43913 0,1.63416 -2.17887,1.08944 -4.35778,0 -4.35776,1.63417 -2.17888,3.26832 0,3.81305 1.08944,2.7236 2.17888,0.54472 0,1.08944 7.08137,0 1.08945,-0.54472 3.26832,0 1.08944,8.17081 c -0.48872,-2.80178 -0.44733,-5.60578 0.65421,-7.421 0.74578,-1.229 2.06232,-1.80678 3.70356,-2.38397 -7.30585,1.98311 -3.19142,8.35138 -3.81305,13.0733 l -0.54472,2.7236 -9.26026,1.08944 -3.81304,0 0,3.81304 -2.17888,3.81305 18.5205,-0.54472 0.54472,1.63416 17.97579,0 -2.17889,-3.81305 0,-1.08944 -14.70745,-2.7236 -1.08945,-0.54472 0,-1.08944 -2.17888,0 c 1.17736,-5.70307 2.75955,-11.2925 4.35777,-16.88635 l -4.90248,1.08945 -4.35778,0 -2.7236,-1.63417 -1.63416,-3.26832 0.54472,-3.81304 2.72361,-2.72361 2.17888,-1.08944 3.26833,0 5.99191,4.35777 1.63417,-4.35777 3.26832,-11.98385 5.44721,0.54472 14.16274,3.26832 -2.17889,-3.81304 -1.08944,-2.17889 0.54472,-2.72359 2.72361,-3.26833 2.7236,-1.08945 4.35777,0 3.81304,2.17889 1.63416,2.72361 0,4.35776 -2.7236,3.26832 -1.63416,1.63417 4.90248,0.54472 10.89442,2.17888 14.16274,0 -2.17889,-3.81305 0.54472,-3.81304 2.17889,-2.72361 3.81304,-1.63415 4.90249,0.54471 3.81304,3.26833 0.54472,1.08944 0,4.35777 -2.7236,3.81304 9.80497,0 9.26025,0.54472 0,11.43914 -2.17887,76.26089 -1.08945,32.13852 -0.54472,8.71553 -11.43914,0 -89.87891,-2.17889 -35.95157,-0.54472 -4.90248,-0.54471 0.54472,-29.95964 0.54472,-13.07329 1.08944,-0.54473 0,-8.71553 -0.54472,-23.96771 0,-8.71553 0.54472,-0.54472 17.97579,-0.54472 -2.72361,-4.90248 -13.07329,1.08943 -4.90249,0 -1.63416,-12.52857 -2.72361,-25.05716 0,-5.4472 17.43107,-1.63416 0,-1.08944 -2.17889,-2.72361 -0.54471,-3.26832 1.63415,-3.26832 2.72361,-2.17889 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="fill:#c11222"
+       inkscape:connector-curvature="0"
+       id="path6159"
+       d="m 588.46321,277.00617 h 4.90248 l 3.81305,2.17889 1.08944,1.63417 v 3.81304 l -3.26832,5.4472 19.06523,0.54473 v 13.61801 l -0.54473,19.60995 -0.54472,8.1708 H 596.0893 l -0.54472,-1.08944 1.63416,-2.7236 v -4.90248 l -2.17888,-2.72361 -2.17889,-1.08944 h -5.99192 l -2.17889,0.54472 -1.08944,2.17888 -1.08944,1.08945 v 3.81304 l 1.63416,2.72361 v 1.63415 h -14.70745 l -2.72361,-0.54472 v -16.88634 l -4.35777,2.17889 h -5.4472 l -2.7236,-1.63417 -1.08944,-2.17888 v -4.35776 l 2.72359,-3.26833 2.72361,-1.08944 3.81304,0.54472 v 1.08944 l 3.26833,0.54472 1.63416,1.08945 v -13.61803 l 0.54472,-3.81304 h 17.97579 l -2.17889,-4.35776 v -4.90249 l 3.26833,-2.7236 z" />
+    <path
+       style="fill:#02abf0"
+       inkscape:connector-curvature="0"
+       id="path6161"
+       d="m 539.98307,318.94967 h 5.99192 l 3.26833,2.7236 0.54473,1.08945 v 3.26832 l -3.26833,4.90248 19.06522,1.08944 -0.54472,17.43107 2.17888,-0.54472 h 7.08137 l 3.26832,2.7236 -0.54472,3.81305 -3.26832,2.17887 h -4.90249 l -4.35776,-1.08943 v 13.07329 l -0.54472,3.81304 h -10.89441 l -26.69132,-0.54472 -7.62609,-0.54471 v -16.34162 l 2.72361,1.08943 2.17887,1.08945 h 3.81306 l 3.26832,-1.63416 2.17888,-3.26833 v -3.81304 l -1.63416,-2.72361 -4.35777,-2.17888 h -3.81304 l -3.81305,1.63416 v -15.25218 h 19.06523 l -3.26833,-5.44721 0.54472,-3.26832 2.72361,-2.7236 z" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccc"
+       style="fill:#eb4d72"
+       inkscape:connector-curvature="0"
+       id="path6163"
+       d="m 485.51101,224.71299 5.4472,0 3.81304,2.17889 1.63416,3.26832 -0.54471,3.26833 -1.08945,3.26832 12.52857,-1.08945 0,1.08945 4.9025,0 1.63415,11.43913 0,1.63416 -2.17887,1.08944 -4.35778,0 -4.35776,1.63417 -2.17888,3.26832 0,3.81305 1.08944,2.7236 2.17888,0.54472 0,1.08944 7.08137,0 1.08945,-0.54472 3.26832,0 c 1.35756,5.32464 1.74817,10.50576 0.47957,14.51042 l -8.65039,0.74176 -4.35776,0 -2.17888,-3.26832 c -6.97667,-6.69969 -4.2833,-8.54035 -1.63416,-1.63417 l -3.81304,0 -3.81306,1.08945 -1.63415,0.54472 -1.08944,2.7236 -1.63417,0.54472 0.54472,2.17889 -1.08944,0.54472 -11.98385,1.08943 -4.90249,0 -1.63416,-12.52857 -2.72361,-25.05716 0,-5.4472 17.43107,-1.63416 0,-1.08944 -2.17889,-2.72361 -0.54471,-3.26832 1.63415,-3.26832 2.72361,-2.17889 z" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path9508"
+       d="m 502.77871,278.01249 c 0.22268,-6.31375 -3.38065,-9.59101 -8.44193,-9.27 -7.15925,0.84148 -7.59509,8.03413 -6.61001,12.16939"
+       style="fill:#ffffff;stroke:#1b3e9c;stroke-width:0.87155306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#fcb22b"
+       inkscape:connector-curvature="0"
+       id="path6165"
+       d="m 588.46321,319.49439 4.35776,0.54472 3.26833,2.17888 1.08944,2.17889 -0.54472,3.26832 -3.26833,4.90249 19.60995,0.54472 -0.54472,21.78883 -0.54472,19.60994 h -23.42299 l -19.06522,-0.54472 -4.35777,-0.54473 v -9.80497 l 0.54472,-5.99193 7.62609,0.54473 3.81304,-1.63416 1.08944,-2.17889 v -3.26832 l -2.7236,-2.17888 -1.63416,-0.54472 h -7.62609 v -15.7969 l 0.54472,-0.54473 19.60995,0.54473 -3.26833,-5.44721 0.54472,-4.35776 3.26833,-2.72361 z" />
+    <path
+       style="fill:#00a261"
+       inkscape:connector-curvature="0"
+       id="path6167"
+       d="m 590.09737,234.51796 h 4.35776 l 3.26833,2.17889 1.63416,2.7236 -0.54472,3.26833 -2.7236,3.81304 v 0.54472 l 19.06522,1.08944 v 17.43107 l -0.54472,20.15466 -0.54471,3.26832 -2.72361,0.54472 -14.70746,-0.54472 1.08944,-2.7236 1.08944,-1.63416 -0.54472,-4.35777 -2.7236,-2.7236 -1.08945,-0.54473 h -7.08136 l -3.26833,2.17889 -1.63416,3.26832 0.54472,3.26833 1.08944,2.7236 h -16.34162 v -10.34969 l 0.54472,-7.08137 -3.81304,1.08944 h -4.90248 l -3.26833,-2.17888 -1.08944,-1.63416 v -4.35777 l 2.17888,-2.17888 1.08944,-0.54473 h 4.35777 l 3.81304,2.72361 h 3.26833 l 4.35776,-15.25217 1.08944,-2.17889 h 12.52857 l -2.72359,-4.35777 v -3.26832 l 3.26832,-3.81305 z" />
+    <path
+       style="fill:#02abf0"
+       inkscape:connector-curvature="0"
+       id="path6169"
+       d="m 550.33276,229.61548 h 5.4472 l 3.26833,2.7236 1.08945,2.17888 -0.54472,3.26833 -4.35777,4.35776 -0.54472,1.08945 4.90249,0.54472 13.07329,2.7236 1.08944,0.54472 -1.08944,5.44721 -2.7236,10.34969 -2.17889,-1.08944 -2.17888,-2.17888 h -5.99192 l -3.26833,2.17888 -1.63416,3.26833 0.54472,3.81304 2.17888,2.7236 2.17889,1.08944 h 3.81304 l 3.26832,-0.54472 -0.54472,5.44721 -1.63416,4.35776 -1.08944,5.44721 -1.63417,0.54472 -17.43105,-3.81304 3.26832,-3.81305 1.08944,-2.17888 -0.54472,-3.81305 -2.17889,-2.7236 -2.7236,-1.08944 h -3.81305 l -3.26832,1.63416 -1.63416,2.72361 0.54472,5.99193 -5.99193,-0.54473 -10.89441,-2.17888 2.17888,-9.26025 2.17889,-7.6261 -4.90248,1.08945 h -4.35778 l -2.7236,-1.63417 -1.63416,-3.26832 0.54472,-3.81304 2.72361,-2.72361 2.17888,-1.08944 h 3.26833 l 5.99191,4.35777 1.63417,-4.35777 3.26832,-11.98385 5.44721,0.54472 14.16274,3.26832 -2.17889,-4.90248 v -3.26832 l 2.17889,-2.72361 z" />
+    <path
+       style="fill:#a6cb68"
+       inkscape:connector-curvature="0"
+       id="path6171"
+       d="m 494.22653,274.28257 4.90249,0.54473 2.7236,2.17887 1.08944,2.17889 -0.54472,3.26832 -2.7236,4.90249 19.60994,-0.54472 0.54472,16.34162 -2.7236,-1.08944 -1.08944,-0.54472 h -5.44721 l -3.26833,2.17888 -1.08943,2.17888 v 3.81305 l 1.63416,2.7236 3.26832,2.17888 h 3.81305 l 4.90248,-2.17888 0.54472,6.53665 v 9.26025 l -3.81304,0.54472 H 501.3079 l 2.17888,-4.35776 -0.54472,-3.81305 -2.17888,-2.7236 -2.72361,-1.08944 h -4.35776 l -3.26832,2.17888 -1.08944,1.63416 v 4.35776 l 2.17887,3.81305 -17.43105,0.54473 -0.54472,-0.54473 -0.54472,-28.8702 -0.54473,-3.81304 -0.54472,-2.17888 h 1.08945 v -5.99193 l 16.34162,-0.54472 2.7236,-0.54472 -3.26832,-5.4472 0.54472,-3.81305 3.26832,-2.7236 z" />
+    <path
+       style="fill:#1e3c9b"
+       inkscape:connector-curvature="0"
+       id="path6243"
+       d="m 587.37377,276.46145 h 7.08136 l 3.26833,2.17889 -0.54472,1.08944 -3.81305,-2.17888 h -4.90248 l -3.26832,1.63416 -1.08945,1.08944 v 4.90249 l 1.63417,2.7236 v 1.63416 h -17.97579 l -0.54472,17.43107 -2.7236,-1.08945 -1.08944,-1.08944 2.7236,0.54472 v -16.34162 l 1.08944,-2.7236 0.54472,2.17888 h 16.34162 l -2.17887,-4.35776 0.54471,-3.26832 2.72361,-3.26833 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9465"
+       d="m 545.39613,235.81288 c 0.49787,2.97265 1.80455,4.69908 2.92471,6.26727"
+       style="fill:#ffffff;fill-opacity:1;stroke:#1b3e9c;stroke-width:0.87155306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9469"
+       d="m 523.41344,253.7339 c 1.83064,-4.88178 3.27632,-10.53151 5.02248,-16.10156 6.61531,0.73184 12.84064,2.13918 19.05602,3.69304 0.58715,-0.36561 0.82569,0.47185 1.03404,0.59086"
+       style="fill:none;stroke:#1b3e9c;stroke-width:0.87155306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9471"
+       d="m 522.52711,261.26767 c -19.76126,7.66874 -15.57928,-21.08276 1.03405,-7.23831"
+       style="fill:none;stroke:#1b3e9c;stroke-width:0.87155306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9473"
+       d="m 520.45903,278.551 -2.80673,-0.2954"
+       style="fill:#1e3c9b;fill-opacity:1;stroke:#1e3c9b;stroke-width:0.87155306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9475"
+       d="m 522.37939,261.56313 c -2.56438,5.26145 -2.70231,11.24391 -4.57936,16.24928"
+       style="fill:#1e3c9b;fill-opacity:1;stroke:#1e3c9b;stroke-width:0.87155306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9479"
+       d="m 517.20138,277.82026 c -5.04204,0.52288 -9.28269,1.01841 -14.60875,1.01841"
+       style="fill:none;stroke:#1b3e9c;stroke-width:0.88717574px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9494"
+       d="m 502.98652,278.853 c -1.52043,-3.51389 -4.81888,-4.85374 -7.91763,-4.38446 -2.97614,0.45076 -5.76805,2.57025 -6.62386,6.03529"
+       style="fill:none;stroke:#1b3e9c;stroke-width:0.80671531px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9496"
+       d="m 469.48837,282.24889 c 5.53066,0.50158 12.79941,-0.25612 17.64187,-0.89819"
+       style="fill:none;stroke:#1b3e9c;stroke-width:0.85757226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9498"
+       d="m 488.5883,280.11588 c 0,0.53246 0,1.06492 0,1.59739"
+       style="fill:#ffffff;fill-opacity:1;stroke:#1b3e9c;stroke-width:0.98683739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9500"
+       d="m 469.64302,282.39178 c -1.62866,-13.02934 -4.26342,-28.4798 -4.43163,-43.13448 5.65027,-1.25673 11.89752,-0.24158 17.43106,-1.62496 -8.83379,-15.85779 20.6923,-16.67536 11.66999,-0.88631 5.80699,-0.71434 11.72697,-0.29545 17.87419,-0.29545 0.10426,4.71722 1.33979,9.53647 1.77268,12.99942"
+       style="fill:none;stroke:#1b3e9c;stroke-width:0.87155306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9502"
+       d="m 511.15259,250.77951 c -11.30007,-0.1328 -13.01344,7.10893 -8.94911,11.01066 2.73608,2.62658 8.79419,2.65594 13.08528,1.54559"
+       style="fill:none;stroke:#1e3c9b;stroke-width:0.87155306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#1b3e9c;stroke-width:0.88648617px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 515.21931,262.95391 c 1.26261,4.46861 2.08933,10.14689 1.55327,14.66093"
+       id="path10120"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g9845"
+       transform="matrix(0.54472067,0,0,0.54472067,-88.003213,98.75629)">
+      <g
+         id="g9540"
+         transform="translate(-2293.5027,105.91497)">
+        <path
+           d="m 3827.4952,18.231296 8,1 v 10.000001 l 1,4 h -2 v 2 h -6 l -4,-1 h -4 V 19.231296 z"
+           id="path6217"
+           inkscape:connector-curvature="0"
+           style="fill:#cd5938" />
+        <g
+           id="g9510"
+           transform="translate(0.38351554,-79.387717)">
+          <path
+             style="fill:#81217c"
+             inkscape:connector-curvature="0"
+             id="path6191"
+             d="m 3820.7282,90.002529 h 12 l 8,5 3,6.000001 v 10 l -4,6 h -1 V 96.002529 h -22 v 21.000001 l 20,1 -1,2 -7,2 -9,-1 -6,-4 -4,-5 -1,-8 3,-7.000001 5,-5 z" />
+          <path
+             style="fill:#9d267a"
+             inkscape:connector-curvature="0"
+             id="path7263"
+             d="m 3822.7282,107.00253 6,1 1,3 5,-1 1,3 h -2 v 2 h -6 l -4,-1 h -4 v -5 z" />
+          <path
+             style="fill:#206298"
+             inkscape:connector-curvature="0"
+             id="path7535"
+             d="m 3826.7282,98.002529 8,1 -1,5.000001 -8,1 -2,-2 1,-4.000001 z" />
+          <path
+             style="fill:#d7333f"
+             inkscape:connector-curvature="0"
+             id="path8095"
+             d="m 3854.7282,127.00253 4,2 2,4 -2,2 h -6 l 1,-7 z" />
+          <path
+             style="fill:#d73d35"
+             inkscape:connector-curvature="0"
+             id="path8097"
+             d="m 3806.7282,117.00253 6,4 1,3 -4,2 h -4 v -7 z" />
+          <path
+             style="fill:#d53238"
+             inkscape:connector-curvature="0"
+             id="path8151"
+             d="m 3863.7282,102.00253 4,1 3,4 -4,3 h -4 v -7 z" />
+          <path
+             style="fill:#d32f35"
+             inkscape:connector-curvature="0"
+             id="path8221"
+             d="m 3767.7282,101.00253 4,2 2,3 -4,3 -5,-1 1,-6 z" />
+          <path
+             style="fill:#d53239"
+             inkscape:connector-curvature="0"
+             id="path8223"
+             d="m 3824.7282,66.002529 5,1 2,4 -4,2 h -4 v -6 z" />
+          <path
+             style="fill:#d6303f"
+             inkscape:connector-curvature="0"
+             id="path8261"
+             d="m 3798.7282,100.00253 4,2 2,3 -2,3 h -5 l -1,-5 z" />
+          <path
+             style="fill:#d33232"
+             inkscape:connector-curvature="0"
+             id="path8313"
+             d="m 3825.7282,138.00253 5,2 v 4 l -4,1 h -3 v -5 z" />
+          <path
+             style="fill:#d42b3d"
+             inkscape:connector-curvature="0"
+             id="path8317"
+             d="m 3849.7282,102.00253 4,1 2,2 -1,4 -3,1 -3,-1 z" />
+          <path
+             style="fill:#d43632"
+             inkscape:connector-curvature="0"
+             id="path8319"
+             d="m 3784.7282,100.00253 h 2 l 4,5 -4,3 h -4 v -6 z" />
+          <path
+             style="fill:#d6313c"
+             inkscape:connector-curvature="0"
+             id="path8321"
+             d="m 3826.7282,79.002529 4,2 2,3 -2,2 h -6 v -5 z" />
+          <path
+             style="fill:#d32c39"
+             inkscape:connector-curvature="0"
+             id="path8323"
+             d="m 3864.7282,66.002529 h 2 v 2 l 4,2 -4,4 h -4 v -6 z" />
+          <path
+             style="fill:#cf2632"
+             inkscape:connector-curvature="0"
+             id="path8371"
+             d="m 3846.7282,86.002529 6,3 -1,4 h -3 l -4,-1 v -3 z" />
+          <path
+             style="fill:#ce2433"
+             inkscape:connector-curvature="0"
+             id="path8373"
+             d="m 3793.7282,78.002529 6,4 -2,4 h -6 v -6 z" />
+          <path
+             style="fill:#d32e37"
+             inkscape:connector-curvature="0"
+             id="path8433"
+             d="m 3826.7282,152.00253 6,4 -4,4 h -4 v -6 z" />
+          <path
+             style="fill:#d6303f"
+             inkscape:connector-curvature="0"
+             id="path8435"
+             d="m 3825.7282,124.00253 6,4 -4,4 h -4 v -6 z" />
+          <path
+             style="fill:#d12a36"
+             inkscape:connector-curvature="0"
+             id="path8437"
+             d="m 3844.7282,119.00253 5,2 v 4 l -4,1 h -3 z" />
+          <path
+             style="fill:#d2293a"
+             inkscape:connector-curvature="0"
+             id="path8439"
+             d="m 3877.7282,102.00253 6,3 -2,4 h -6 v -6 z" />
+          <path
+             style="fill:#d52f3d"
+             inkscape:connector-curvature="0"
+             id="path8441"
+             d="m 3806.7282,84.002529 6,5 -2,1 v 2 h -6 v -5 z" />
+          <path
+             style="fill:#d12839"
+             inkscape:connector-curvature="0"
+             id="path8491"
+             d="m 3862.7282,136.00253 4,2 2,3 -2,2 h -6 v -5 z" />
+          <path
+             style="fill:#d42e3b"
+             inkscape:connector-curvature="0"
+             id="path8493"
+             d="m 3779.7282,136.00253 4,2 2,3 -2,2 h -6 v -5 z" />
+          <path
+             style="fill:#abb03a"
+             inkscape:connector-curvature="0"
+             id="path8497"
+             d="m 3819.7282,99.002529 4,1.000001 1,6 -5,3 z" />
+          <path
+             style="fill:#da393f"
+             inkscape:connector-curvature="0"
+             id="path8501"
+             d="m 3826.7282,51.002529 6,4 -4,4 -4,-1 v -6 z" />
+          <path
+             style="fill:#d6333c"
+             inkscape:connector-curvature="0"
+             id="path8563"
+             d="m 3794.7282,126.00253 6,4 -4,4 -4,-1 v -5 z" />
+          <path
+             style="fill:#d12a35"
+             inkscape:connector-curvature="0"
+             id="path8567"
+             d="m 3853.7282,75.002529 4,2 2,4 h -2 l -1,2 h -3 l -1,-4 z" />
+          <path
+             style="fill:#d12c33"
+             inkscape:connector-curvature="0"
+             id="path8571"
+             d="m 3781.7282,72.002529 6,3 -2,4 h -3 -2 v -6 z" />
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="cccssccccsccc"
+         inkscape:connector-curvature="0"
+         id="path9576"
+         d="m 1519.2701,111.10141 c -15.0668,-61.024036 32.0275,-72.763856 20.0678,-2.16949 46.6952,-70.768706 72.1843,-18.347246 15.7288,13.01694 3.7235,-3.00536 16.259,-3.67358 22.6554,-2.44085 43.0568,8.29842 35.8385,25.18484 -4.7624,23.20309 -6.596,-0.32193 -14.9719,-3.4791 -23.3167,-5.03342 9.9925,6.6116 42.8141,26.03686 30.3728,42.03389 -21.9865,4.66529 -25.5664,-13.7882 -37.4237,-26.30508 5.608,46.7228 -31.65,61.15372 -19.5254,0 -4.3219,12.57874 -53.0475,38.92527 -52.3389,12.74576 0.3115,-11.51227 33.4712,-21.2487 38.2371,-25.22033 -58.6129,15.07907 -77.9856,-27.64653 -4.3388,-18.44069 -55.5026,-24.651576 -33.2743,-65.557216 14.644,-11.38982"
+         style="fill:none;stroke:#5aa02c;stroke-width:1.60000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#d40000;stroke-width:1.60000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1523.7175,112.18615 c -15.0667,-61.024026 32.0275,-72.763846 20.0679,-2.16949 46.6951,-70.768696 72.1843,-18.347236 15.7287,13.01695 3.7236,-3.00536 16.2591,-3.67359 22.6554,-2.44085 43.0568,8.29842 35.8386,25.18483 -4.7624,23.20309 -6.596,-0.32194 -14.9718,-3.47911 -23.3166,-5.03343 9.9924,6.6116 42.814,26.03687 30.3728,42.03389 -21.9866,4.6653 -25.5664,-13.78819 -37.4237,-26.30507 5.608,46.7228 -31.6501,61.15371 -19.5254,0 -4.322,12.57874 -53.0476,38.92526 -52.3389,12.74576 0.3115,-11.51227 33.4712,-21.2487 38.2371,-25.22034 -58.613,15.07908 -77.9856,-27.64652 -4.3389,-18.44068 -55.5025,-24.651586 -33.2742,-65.557216 14.644,-11.38983"
+         id="path9574"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccssccccsccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       x="370.52228"
+       y="653.76196"
+       id="text9916"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9918"
+         x="370.52228"
+         y="653.76196">Realisering</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9920"
+       y="360.68384"
+       x="233.43738"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       xml:space="preserve"><tspan
+         y="360.68384"
+         x="233.43738"
+         id="tspan9922"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'">Selvbetjening</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       x="311.93167"
+       y="345.32086"
+       id="text9924"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         id="tspan9926"
+         x="311.93167"
+         y="345.32086">Sags- og </tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="311.93167"
+         y="362.75192"
+         id="tspan9928">ydelses-</tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="311.93167"
+         y="380.18298"
+         id="tspan9930">overblik</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       x="214.5291"
+       y="524.94946"
+       id="text9932"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         id="tspan9934"
+         x="214.5291"
+         y="524.94946">Deling af data</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9936"
+       y="541.49414"
+       x="340.97812"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       xml:space="preserve"><tspan
+         y="541.49414"
+         x="340.97812"
+         id="tspan9938"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'">Brugerstryring</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9940"
+       y="281.50543"
+       x="379.20749"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       xml:space="preserve"><tspan
+         id="tspan9946"
+         y="281.50543"
+         x="379.20749"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'">Tværgående </tspan><tspan
+         y="298.93649"
+         x="379.20749"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan9953">processer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       x="614.37915"
+       y="227.14418"
+       id="text9955"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan9959"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="614.37915"
+         y="227.14418">Nye emner?</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9963"
+       y="387.8645"
+       x="484.38483"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       xml:space="preserve"><tspan
+         y="387.8645"
+         x="484.38483"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan9965">Robust og sikker </tspan><tspan
+         y="405.29556"
+         x="484.38483"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan9967">iinfrastruktur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       x="102.26122"
+       y="233.05299"
+       id="text9977"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         id="tspan9979"
+         x="102.26122"
+         y="233.05299">Fælles governance ud fra</tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="102.26122"
+         y="250.48405"
+         id="tspan9981">fælles arkitektur-</tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="102.26122"
+         y="267.91513"
+         id="tspan9983">principper og -regler</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9985"
+       y="159.78345"
+       x="501.69852"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       xml:space="preserve"><tspan
+         id="tspan9991"
+         y="159.78345"
+         x="501.69852"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'">Fælles, konsolideret og</tspan><tspan
+         y="177.21451"
+         x="501.69852"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan9998">agil rammearkitektur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       x="743.53607"
+       y="48.697361"
+       id="text10000"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Medium;-inkscape-font-specification:'Paralucent Medium,'"
+         sodipodi:role="line"
+         x="743.53607"
+         y="48.697361"
+         id="tspan10002">Vision</tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="743.53607"
+         y="66.128426"
+         id="tspan10006">Den digitalt </tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="743.53607"
+         y="83.559486"
+         id="tspan10008">sammenhængende </tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="743.53607"
+         y="100.99055"
+         id="tspan10010">offentlige sektor</tspan><tspan
+         id="tspan10004"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="743.53607"
+         y="118.42161" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       x="507.01486"
+       y="478.5144"
+       id="text10012"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="478.5144"
+         id="tspan10024" /><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="495.9455"
+         id="tspan10026" /><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="513.37653"
+         id="tspan10028" /><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="530.80762"
+         id="tspan10030" /><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="548.23865"
+         id="tspan10032" /><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Medium;-inkscape-font-specification:'Paralucent Medium,'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="565.66974"
+         id="tspan10034">Fælles byggeblokke og standarder </tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="583.10077"
+         id="tspan10082">Den fællesoffentlige rammearkitektur- </tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="600.53186"
+         id="tspan10110">referencearkitekturer, byggeblokke og </tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="617.96289"
+         id="tspan10112">standarder - opbygges iterativ og i takt </tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="635.39398"
+         id="tspan10114">med identificerede forretningsbehov, </tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="507.01486"
+         y="652.82501"
+         id="tspan10116">udfordringer og modning.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10036"
+       y="157.41994"
+       x="818.83466"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       xml:space="preserve"><tspan
+         id="tspan10042"
+         y="157.41994"
+         x="818.83466"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Medium;-inkscape-font-specification:'Paralucent Medium,'">Målbillede</tspan><tspan
+         y="174.851"
+         x="818.83466"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan10051">Det digitale økosystem understøtter</tspan><tspan
+         y="192.28206"
+         x="818.83466"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan10084">sikkert og effektivt datadeling, løst </tspan><tspan
+         y="209.71312"
+         x="818.83466"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan10086">koblede processer og automatisering </tspan><tspan
+         y="227.14418"
+         x="818.83466"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan10088">end-to-end.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       x="629.75195"
+       y="410.31805"
+       id="text10058"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan10062"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="629.75195"
+         y="410.31805" /><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Medium;-inkscape-font-specification:'Paralucent Medium,'"
+         sodipodi:role="line"
+         x="629.75195"
+         y="427.74911"
+         id="tspan10068">Adoption og anvendelse</tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="629.75195"
+         y="445.18018"
+         id="tspan10080">Domænerne profilerer fælles standarder og </tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="629.75195"
+         y="462.61124"
+         id="tspan10096">udarbejder løsningskabeloner, hvor der er behov for </tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="629.75195"
+         y="480.0423"
+         id="tspan10098">dette. Myndigheder implementerer i egne nye l</tspan><tspan
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         sodipodi:role="line"
+         x="629.75195"
+         y="497.47339"
+         id="tspan10100">øsninger eller tilpasser eksisterende efter aftale.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10070"
+       y="279.14194"
+       x="744.38324"
+       style="font-size:17.43106079px;font-style:normal;font-weight:bold;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Paralucent Medium;-inkscape-font-specification:Paralucent Medium"
+       xml:space="preserve"><tspan
+         y="279.14194"
+         x="744.38324"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan10072" /><tspan
+         id="tspan10074"
+         y="296.573"
+         x="744.38324"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Medium;-inkscape-font-specification:'Paralucent Medium,'">Migrationsstrategi</tspan><tspan
+         id="tspan10076"
+         y="314.00406"
+         x="744.38324"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'">De offentlige it-løsninger kan over tid </tspan><tspan
+         y="331.43512"
+         x="744.38324"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan10090">tilføjes nye egenskaber eller bygges </tspan><tspan
+         y="348.86618"
+         x="744.38324"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan10092">efter nye arkitekturprincipper i takt </tspan><tspan
+         y="366.29724"
+         x="744.38324"
+         sodipodi:role="line"
+         style="font-size:13.94484901px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Paralucent Light;-inkscape-font-specification:'Paralucent Light, Light'"
+         id="tspan10094">med markedsmodning og genudbud.</tspan></text>
+  </g>
+</svg>
