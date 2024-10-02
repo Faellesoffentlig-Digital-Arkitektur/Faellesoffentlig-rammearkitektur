@@ -66,7 +66,7 @@ Rammearkitekturen _kan_ anvendes af offentlige myndigheder og digitaliseringspro
 
 Projekter skal udarbejde relevant arkitekturbeskrivelse således, at projekter kan koordineres med henblik på at udvikle it-løsninger, der understøtter sikker og effektiv deling af data og tværgående processer.
 
-I forlængelse af hvidbog om fællesoffentlig digital arkitektur udføres arkitekturarbejdet efter en fælles forståelse for dokumentation udmøntet i _retningslinjer for arkitekturdokumentation i digitaliseringsprojekter_. Disse retningslinjer supplerer dette dokument. Retningslinjerne kan findes på [https://arkitektur.digst.dk/node/563](https://arkitektur.digst.dk/node/563)[.](https://arkitektur.digst.dk/node/563) 
+I forlængelse af hvidbog om fællesoffentlig digital arkitektur udføres arkitekturarbejdet efter en fælles forståelse for dokumentation udmøntet i _retningslinjer for arkitekturdokumentation i digitaliseringsprojekter_. Disse retningslinjer supplerer dette dokument. Retningslinjerne kan findes på [Introduktion til retningslinjer for formidling og dokumentation af arkitektur i digitaliseringsprojekter](https://github.com/Faellesoffentlig-Digital-Arkitektur/Retningslinjer-for-formidling-og-dokumentation-af-arkitektur-i-digitaliseringsprojekter/blob/main/Retningslinjer%20for%20formidling%20og%20dokumentation%20af%20arkitektur%20i%20digitaliseringsprojekter.md)
 
 Anvendelse af fælles retningslinjer for arkitekturarbejdet skal understøtte, at projekterne udvikler løsninger, der kan arbejde sammen, at projekternes arkitekturarbejde kan kvalitetssikres gennem peer-review samt at projekternes arkitekturarbejde kan koordineres og bidrage til en løbende udbygning af den fællesoffentlige digitale arkitektur.
 
@@ -112,8 +112,6 @@ Desuden skal løsningsarkitekten orientere sig om FDA Rammearkitektur indeholder
 * Teknisk specifikation af token til bruger-id og rettighedsstyring.
 
 Løsningsarkitektens opgave er bl.a. at sætte FDA-byggeblokkene ind i egen kontekst og beskrive dette. Dette gøres ved at finde relevante arkitekturbyggeblokke i det fælles FDA-katalog over byggeblokke. 
-
-
 
 ![Figur 2 Arkitekten genbruger byggeblokke.svg](assets/419d2c55b2390e871817b802dede32ec6fd6c2b4.svg)
 
@@ -191,8 +189,6 @@ En løsning kan i praksis være omfattet af målarkitektur på flere niveauer og
 ### Grundstruktur i FDA Rammearkitekturen
 
 Det er vigtigt for projekterne at kunne identificere hvilke fælles arkitektur og løsningsbyggeblokke, der findes og at kunne orientere sig i deres rolle i den samlede arkitektur. Derfor arbejdes der i FDA Rammearkitektur med to grundlæggende, samvirkende koncepter for struktur for byggeblokkene, der tager udgangspunkt i den begrebsmodel interoperabilitetsstyring og styring af integrerede offentlige tjenester, som er beskrevet i det fælleseuropæiske rammeværk for interoperabilitet (EIF), jf. nedenstående figur.
-
-
 
 ![Figur4.svg](assets/c474b86ad2882bcca413630cfb0d6ba382a3709c.svg)
 
@@ -277,8 +273,6 @@ Opgaven Personregistrering beskrevet med flere byggeblokke sat sammen
 
 Nedenstående figur er en visning, der mapper de vigtigste byggeblokke til den konceptuelle model for styring af offentlige integrerede services (spillepladen). Den giver et højniveau overblik over de vigtigste arkitekturbyggeblokke, som er identificeret i arbejdet med ovennævnte referencearkitekturer. Denne visning går på tværs af de otte hovedperspektiver og har fokus på byggeblokke, der vedrører hovedperspektiverne opgaver, information og applikation. Det bemærkes, at de basale EIRA byggeblokke ikke er synlige i denne visning.
 
-
-
 ![Figur8.svg](assets/1040253fa5504ec3454d61389f7bef33e5889724.svg)
 
 *Figur 8 Eksempler på FDA byggeblokke vist (spilleplade-visning)*
@@ -340,8 +334,6 @@ Grundlæggende skal it-løsninger understøtte en serviceorienteret arkitekturst
 
 Nedenstående figur illustrerer et overordnet roadmap for, hvordan denne proces forventes at forløbe over de kommende år. Det er en vigtig pointe, at der er tale om en iterativ proces, hvor der hele tiden sker en læring og modning. Forretningsbehovene vil løbende flytte sig, både styret af politiske mål og brugerbehov. Og teknologien flytter sig til stadighed, således at nye muligheder opstår og gamle løsninger forældes.
 
-
-
 ![Figur10.svg](assets/70e93a9ded91cb617915d45a74b6cb2952c5ffb6.svg)
 
 *Figur 10 Roadmap for FDA rammearkitektur*
@@ -349,8 +341,6 @@ Nedenstående figur illustrerer et overordnet roadmap for, hvordan denne proces 
 Vejen frem til målbilledet skal ske gennem en migrationsstrategi, hvor de offentlige itløsninger over tid tilføjes nye egenskaber eller bygges efter nye arkitekturprincipper i takt med markedsmodning og genudbud. Den fællesoffentlige rammearkitektur opbygges iterativ og i takt med identificerede forretningsbehov, udfordringer og modning. Adoption og anvendelse sker ved, at domænerne profilerer fælles standarder og udarbejder løsningskabeloner, hvor der er behov for dette. Det kan fx være i forhold til en flytteguide, der samler og sammenkæder relevante selvbetjeningsløsninger eller brugerstyring på tværs af forskellige sikkerhedsdomæner. Den enkelte myndighed skal, hvor det er relevant, sikre, at den fælles arkitektur understøttes ved anskaffelse af nye løsninger, hvor det aftales, ved tilpasning af eksisterende løsninger.
 
 Nedenstående figur viser, hvordan der med udgangspunkt i den fællesoffentlige digitaliseringsstrategi og hvidbogen om fællesoffentlig digital arkitektur kan etableres sammenhængende løsninger.
-
-
 
 ![Figur11.svg](assets/0b6d67837e4024b0fd272835ed69a7a9fd35be45.svg)
 
@@ -571,8 +561,6 @@ Udfasning skal varsles i god tid (efter nærmere aftale) og gennem publicering a
 #### Procesmodel for livscyklus for FDA-elementer
 
 De foregående processer danner tilsammen en procesmodel for livscyklus, som FDAelementerne gennemløber, illustreret i den efterfølgende figur.  
-
-
 
 ![Figur14.svg](assets/051c7098bca5e727f4ccf02cd99bf12d1c4fb87a.svg)
 
