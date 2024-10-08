@@ -1,4 +1,5 @@
 # Introduktion til Fællesoffentlig Rammearkitektur
+V.1.0
 
 ## Forord
 
