@@ -45,7 +45,7 @@ Sagt med andre ord skal FDA Rammearkitektur være et redskab til gode arkitektur
 
 Nedenstående figur illustrerer, at rammearkitekturen både er styret af og understøtter fælles forretningsmål og sætter rammer for og understøtter udvikling af it-løsninger til fælles og lokale projekter, som er underlagt den fælles styringsramme.
 
-![Figur1.svg](assets/29a23a61e7789c0fc6f5b5bc165784d82e5bb6f9.svg)
+![Figur1_Rammearkitekturens_rolle.svg](assets/Figur1_Rammearkitekturens_rolle.svg)
 
 *Figur 1 Rammearkitekturens rolle*
 
