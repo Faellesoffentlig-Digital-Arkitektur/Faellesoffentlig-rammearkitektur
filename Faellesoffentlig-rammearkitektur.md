@@ -11,7 +11,7 @@ Formålet med denne introduktion er at give en indføring i grundkoncepterne i f
 
 Den primære målgruppe er forretnings- og it-arkitekter, projektledere og beslutningstagere i relation til projekter, som skal anvende rammearkitekturen som en integreret del af deres arbejde i forbindelse med offentlig digitalisering. 
 
-Rammearkitekturen er underlagt styring af styregruppen for data og arkitektur. Projekterne i digitaliseringsstrategien skal følge de fællesoffentligt aftalte krav til anvendelse og underlægges arkitekturreview. 
+Rammearkitekturen er underlagt styring af udvalget for arkitektur og standarder (UAS). Projekterne i digitaliseringsstrategien skal følge de fællesoffentligt aftalte krav til anvendelse og underlægges arkitekturreview. 
 
 Denne introduktion svarer i fem kapitler på disse fem hovedspørgsmål:
 
@@ -29,7 +29,7 @@ Dette dokument giver en introduktion til den fællesoffentlige rammearkitektur (
 
 Den fællesoffentlige rammearkitektur er et fælles redskab til at støtte digitaliseringsprojekter i udviklingen af organisations- og løsningsspecifikke arkitekturer, som kan hænge sammen på tværs. Den er en fællesoffentligt aftalt tilgang til levering af offentlige forretnings- og it-services på en måde, så disse kan virke sammen.
 
-Scopet for FDA Rammearkitektur er defineret ved det til enhver tid gældende indhold, som er godkendt af styregruppen for data og arkitektur, som værende del af rammearkitekturen. Et samlet overblik vil blive publiceret og opdateret løbende på FDA’s hjemmeside [arkitektur.digst.dk](https://arkitektur.digst.dk/)[.](https://arkitektur.digst.dk/) 
+Scopet for FDA Rammearkitektur er defineret ved det til enhver tid gældende indhold, som er godkendt af udvalget for arkitektur og standarder, som værende del af rammearkitekturen. Et samlet overblik vil blive publiceret og opdateret løbende på FDA’s hjemmeside [arkitektur.digst.dk](https://arkitektur.digst.dk/)[.](https://arkitektur.digst.dk/) 
 
 Dokumentet skal anvendes i forbindelse med projekter i regi af den fællesoffentlige digitaliseringsstrategi. Dokumentet opdateres i takt med, at der gøres erfaringer med arbejdet med FDA Rammearkitektur. 
 
@@ -71,7 +71,7 @@ I forlængelse af hvidbog om fællesoffentlig digital arkitektur udføres arkite
 
 Anvendelse af fælles retningslinjer for arkitekturarbejdet skal understøtte, at projekterne udvikler løsninger, der kan arbejde sammen, at projekternes arkitekturarbejde kan kvalitetssikres gennem peer-review samt at projekternes arkitekturarbejde kan koordineres og bidrage til en løbende udbygning af den fællesoffentlige digitale arkitektur.
 
-I et projekt er det styregruppens og projektlederens ansvar, at de fælles retningslinjer følges. Projektlederen skal derfor være bekendt med krav til dokumentation, brug af FDA Rammearkitektur og proces for tværgående governance med henblik på kvalitetssikring og koordinering.
+I et projekt er det udvalgets og projektlederens ansvar, at de fælles retningslinjer følges. Projektlederen skal derfor være bekendt med krav til dokumentation, brug af FDA Rammearkitektur og proces for tværgående governance med henblik på kvalitetssikring og koordinering.
 
 Det fællesoffentlige samarbejde om arkitektur tager udgangspunkt i relevante ISO standarder for arkitekturarbejdet. Standarden _ISO/IEC 42010 Systems and software engineering – Architecture description_ definerer, hvordan man laver arkitekturbeskrivelser. Dette omfatter fire centrale elementer:  
 
@@ -84,7 +84,7 @@ Næste kapitel giver en introduktion til de centrale begreber i arkitekturarbejd
 
 Tjeklisterne i nedenstående bokse kan hjælpe projekterne til at gøre det helt klart, hvilke opgaver der skal tænkes ind i projektet og hvor i projektplanen de hører til.
 
-#### Styregruppens tjekliste
+#### Udvalgets tjekliste
 
 * Har projektet en plan for hvilke arkitekturprodukter, der skal leveres som led i projektet?
 * Har projektet taget stilling til, hvilke dele af rammearkitekturen projektet skal anvende og eventuelt bidrage til?
@@ -95,7 +95,7 @@ Tjeklisterne i nedenstående bokse kan hjælpe projekterne til at gøre det helt
 
 * Afklar i dialog med din styregruppe hvilken arkitekturdokumentation, der skal udarbejdes i dit projekt og hvornår. Brug en arbejdsgruppe og arkitekt til støtte. 
 * Benyt eventuelt muligheden for rådgivning fra sekretariatet for initiativ 8.1.
-* Afklar hvilken dokumentation, der bør være i forbindelse med et eventuelt arkitekturreview i regi af styregruppen for data og arkitektur.
+* Afklar hvilken dokumentation, der bør være i forbindelse med et eventuelt arkitekturreview i regi af udvalget for arkitektur og standarder.
 * Lav som en del af projektplanlægningen en overordnet plan for udarbejdelse af arkitekturdokumentation i de forskellige faser. Planen bør omfatte hvilke arkitekturvisninger, der skal udarbejdes og krav til format og kvalitet i projektets hovedfaser.
 * Sørg for at kommunikere eventuelle bidrag fra dit projekt til den fællesoffentlige rammearkitektur
 
@@ -405,16 +405,16 @@ Rammearkitekturen forventes at være i løbende udvikling. Eksisterende elemente
 
 Den fællesoffentlige rammearkitektur styres efter de rammer, der er fastlagt i hvidbogen, herunder arkitekturprincipper og understøttende arkitekturregler.
 
-I regi af digitaliseringsstrategien er det styregruppen for data og arkitektur, der har ansvaret for den fællesoffentlige digitale arkitektur. Styregruppen løser denne opgave med reference til porteføljestyregruppen for digitaliseringsstrategien, der igen refererer til parterne bag digitaliseringsstrategien: Regeringen, KL og Danske Regioner. 
+I regi af digitaliseringsstrategien er det udvalget for arkitektur og standarder, der har ansvaret for den fællesoffentlige digitale arkitektur. Udvalget løser denne opgave med reference til porteføljeudvalget for digitaliseringsstrategien, der igen refererer til parterne bag digitaliseringsstrategien: Regeringen, KL og Danske Regioner. 
 
-Styregruppen for data og arkitektur har følgende opgaver i regi af digitaliseringsstrategien: 
+Udvalget for arkitektur og standarder har følgende opgaver i regi af digitaliseringsstrategien: 
 
 * At fastlægge og levere en fælles arkitektur for digitaliseringsstrategiens initiativer, konkret hvidbog og tilhørende referencearkitekturer, specifikationer, standarder mv. 
 * At sikre anvendelse af den fælles digitale arkitektur på tværs af hele digitaliseringsstrategien under hensyntagen til det enkelte initiativs business case, herunder foretage reviews af arkitekturen i digitaliseringsstrategiens initiativer. 
 
-Styregruppen for data og arkitektur har det overordnede ansvar for FDA Rammearkitektur, herunder tværgående koordinering og kvalitetssikring af referencearkitekturer og byggeblokke samt ansvar for optagelse af referencearkitekturer, byggeblokke og standarder og specifikationer i FDA Rammearkitektur. Styregruppen har, med bistand fra sekretariatet for 8.1 forankret i Digitaliseringsstyrelsen, tillige ansvar for, at den fællesoffentlige arkitektur vedligeholdes. Herunder, at der skabes de fornødne rammer og aftaler om vedligeholdelse af de enkelte elementer. 
+Udvalget for arkitektur og standarder har det overordnede ansvar for FDA Rammearkitektur, herunder tværgående koordinering og kvalitetssikring af referencearkitekturer og byggeblokke samt ansvar for optagelse af referencearkitekturer, byggeblokke og standarder og specifikationer i FDA Rammearkitektur. Udvalget har, med bistand fra sekretariatet for 8.1 forankret i Digitaliseringsstyrelsen, tillige ansvar for, at den fællesoffentlige arkitektur vedligeholdes. Herunder, at der skabes de fornødne rammer og aftaler om vedligeholdelse af de enkelte elementer. 
 
-Styregruppen for data og arkitektur er ansvarlig for at overvåge, at alle rammearkitekturens væsentlige elementer er forankret i en ansvarlig organisation. Dette kan være i fællesoffentlig styregruppe eller lignende.
+Udvalget for arkitektur og standarder er ansvarlig for at overvåge, at alle rammearkitekturens væsentlige elementer er forankret i en ansvarlig organisation. Dette kan være i fællesoffentlig styregruppe eller lignende.
 
 Det er det enkelte projekt og den ansvarlige styregruppe, der har det initiale ansvar for frembringelse og vedligeholdelse af referencearkitekturer og byggeblokke indtil andet aftales.
 
@@ -431,8 +431,8 @@ Indholdet i FDA Rammearkitektur kommer fra forskellige steder, som kan opdeles i
 Denne opdeling er illustreret i figuren til højre og beskrevet nærmere nedenfor.
 
 1. Elementer, som repræsenterer givne vilkår for offentlige digitale løsninger, og som er givet ud fra lov og forpligtende aftaler på internationalt og nationalt plan, fx GDPR-forordningen og persondataloven. Disse indarbejdes løbende i rammearkitekturen af sekretariatet for initiativ 8.1 som en del af den fælles dokumentation og overblik over rammesættende arkitektur. Formålet hermed er at støtte overblik, rådgivning og arkitekturreview. Disse elementer kan betegnes som _vilkårs- og forudsætningselementer._
-2. Elementer, som parterne aftaler udvikles i regi af FODS, og som forankres og vedligeholdes af en ansvarlig aktør eller et fælles forum efter aftale med SDA. Det kan fx være fælles begrebs- og datamodeller. Disse elementer kan være baseret på internationale standarder (dansk profilering) eller udviklet fra bunden i regi af strategien (_egenudviklede elementer_).
-3. Endelig indgår der i FDA Rammearkitektur også elementer, som parterne identificerer som relevante, men som er udviklet i andet regi og derfor skal vurderes egnede til at indgå i rammearkitekturen. Det kan fx være en teknisk standard i form af en transportprotokol. Disse kan optages gennem godkendelse af SDA. Denne type elementer kan danne grundlag for egenudviklede elementer i form af fx dansk profilering af standarder (_adopterede elementer_).
+2. Elementer, som parterne aftaler udvikles i regi af FODS, og som forankres og vedligeholdes af en ansvarlig aktør eller et fælles forum efter aftale med UAS. Det kan fx være fælles begrebs- og datamodeller. Disse elementer kan være baseret på internationale standarder (dansk profilering) eller udviklet fra bunden i regi af strategien (_egenudviklede elementer_).
+3. Endelig indgår der i FDA Rammearkitektur også elementer, som parterne identificerer som relevante, men som er udviklet i andet regi og derfor skal vurderes egnede til at indgå i rammearkitekturen. Det kan fx være en teknisk standard i form af en transportprotokol. Disse kan optages gennem godkendelse af UAS. Denne type elementer kan danne grundlag for egenudviklede elementer i form af fx dansk profilering af standarder (_adopterede elementer_).
 
 Det bemærkes, at governance i forhold til FDA Rammearkitektur kun relaterer sig til egenudviklede og adopterede elementer.
 
@@ -443,8 +443,8 @@ Et element i FDA Rammearkitektur, uagtet om det er en referencearkitektur eller 
 * _Kandidat_ – betyder, at elementet er kandidat til at indgå i FDA-rammearkitekturen. 
 * _Udvikling_ – betyder, at elementet enten udvikles, videreudvikles eller vurderes i forhold til egnethed, hvis det allerede eksisterer. Dette omfatter også afprøvning og ”servicetjek”. 
 * _Færdig_ – betyder, at elementet er godkendt som færdigt og klar til anvendelse ved beslutning i det forum, som er ansvarligt for projektet (fx en styregruppe). 
-* _Optaget_ – betyder, at elementet er optaget i FDA ved beslutning i SDA. 
-* _Udfases_ – betyder, at elementet ikke længere anbefales anvendt fremadrettet ved beslutning i SDA.
+* _Optaget_ – betyder, at elementet er optaget i FDA ved beslutning i UAS. 
+* _Udfases_ – betyder, at elementet ikke længere anbefales anvendt fremadrettet ved beslutning i UAS.
 
 De første tre kategorier: _kandidat, udvikling og færdig_, kan betragtes som en pipeline for indholdet i rammearkitekturen. Dermed kan elementer med denne status være relevante at kende for projekter, selv om de ikke er optaget. Disse elementer guider projekter i deres planlægning, så det er tydeligt, hvad der er under udvikling til fællesoffentligt brug og dermed også, hvad et projekt evt. ikke selv behøver at udarbejde samt eventuelle kommende krav til en given løsning.
 
@@ -452,7 +452,7 @@ Kategorien optaget er de elementer, som efter vurdering og eventuelt afprøvning
 
 Bemærk særligt, at der er forskel på, at et element er 1) godkendt som færdig projektleverance, 2) er optaget i FDA Rammearkitekturen og 3) at der stilles konkrete krav til dets anvendelse. Sidstnævnte kræver et formelt mandat til at stille obligatoriske krav om anvendelse af løsningsbyggeblokke i konkrete it-løsninger. Det kan fx være mandat efter lovhjemmel eller efter aftale mellem relevante parter.
 
-Udfases er en status, der tildeles af SDA til elementer, der tidligere har haft kategorien optaget, men som af teknologiske, organisatoriske eller andre årsager ikke længere vurderes egnede til anvendelse. Et projekt bør orientere sig i denne kategori, så man fx ikke baserer et løsningsdesign på specifikationer eller standarder, der ikke forventes egnede eller vedligeholdt. Bemærk at en udfasning i praksis kan løbe over en årrække pga. bindinger til eksisterende anvendelse.
+Udfases er en status, der tildeles af UAS til elementer, der tidligere har haft kategorien optaget, men som af teknologiske, organisatoriske eller andre årsager ikke længere vurderes egnede til anvendelse. Et projekt bør orientere sig i denne kategori, så man fx ikke baserer et løsningsdesign på specifikationer eller standarder, der ikke forventes egnede eller vedligeholdt. Bemærk at en udfasning i praksis kan løbe over en årrække pga. bindinger til eksisterende anvendelse.
 
 Sammenhængen mellem de fem kategorier er vist i nedenstående figur. 
 
@@ -466,17 +466,17 @@ Ansvarsplaceringen i denne model er som følger: 
 
 * Sekretariatet for FDA har ansvar for første del, hvor et behov for et fælles element identificeres som kandidat til optagelse. 
 * Projektejer/projektstyregruppe for den enkelte arkitekturleverance har ansvar for udvikling og godkendelse af leverance, så den er færdig og klar til at blive indstillet til optagelse. 
-* SDA er ansvarlig for optagelse i FDA og foreventuel udfasning af FDA.
+* UAS er ansvarlig for optagelse i FDA og foreventuel udfasning af FDA.
 
 ### Hovedprocesser for FDA rammearkitektur
 
 #### Proces for identifikation af kandidater til FDA
 
-Alle initiativer, projekter og interessenter har mulighed for at foreslå kandidater til FDA Rammearkitektur på baggrund af behov. SDA og sekretariatet for initiativ 8.1 har også mulighed for at indmelde kandidater, typisk på baggrund af rådgivning og reviews, især tværgående anbefalinger. Det kan være elementer, som skal udvikles fra bunden, eller eksisterende elementer, der vurderes at have relevans som del af FDA, fx standarder udviklet i regi af tidligere fællesoffentlige arbejder eller internationale standarder.
+Alle initiativer, projekter og interessenter har mulighed for at foreslå kandidater til FDA Rammearkitektur på baggrund af behov. UAS og sekretariatet for initiativ 8.1 har også mulighed for at indmelde kandidater, typisk på baggrund af rådgivning og reviews, især tværgående anbefalinger. Det kan være elementer, som skal udvikles fra bunden, eller eksisterende elementer, der vurderes at have relevans som del af FDA, fx standarder udviklet i regi af tidligere fællesoffentlige arbejder eller internationale standarder.
 
 Alle kandidater indmeldes til sekretariatet for initiativ 8.1, der vedligeholder det samlede overblik over pipeline til FDA Rammearkitektur. Ved indmeldelse vurderer sekretariatet, om elementet har potentiale for fællesoffentlig anvendelse. Er det tilfældet får elementet status _kandidat_. Der tages dialog med den indmeldende part, om elementet er planlagt til udvikling i regi af et projekt i digitaliseringsstrategien. Er det tilfældet, monitoreres elementet, og det vil efter projektliggørelse skifte status til udvikling.
 
-Er der ikke aftale om, at elementet udvikles i regi af digitaliseringsstrategien og bliver elementet vurderet som centralt for en fællesoffentlige digitale arkitektur, laves der en indstilling til SDA. Sekretariatet for initiativ 8.1 kan indstille til SDA, at der i regi af initiativ 8.1 igangsættes et projekt til udvikling og/eller, at en igangsættelse drøftes med en relevant styregruppe i regi af digitaliseringsstrategien.
+Er der ikke aftale om, at elementet udvikles i regi af digitaliseringsstrategien og bliver elementet vurderet som centralt for en fællesoffentlige digitale arkitektur, laves der en indstilling til UAS. Sekretariatet for initiativ 8.1 kan indstille til UAS, at der i regi af initiativ 8.1 igangsættes et projekt til udvikling og/eller, at en igangsættelse drøftes med en relevant styregruppe i regi af digitaliseringsstrategien.
 
 #### Proces for udvikling af elementer
 
@@ -492,7 +492,7 @@ Udvikling og vurdering af elementer kan ske i regi af alle relevante initiativer
 
 Selve gennemførelsen af projektet vil typisk være underlagt styring gennem offentligt anvendte projektmodeller. Elementer under udvikling vil typisk skulle underlægges arkitekturreview, jf. retningslinjer for arkitekturreviews. Desuden tilbydes rådgivning til projektet af sekretariatet for initiativ 8.1. 
 
-Et projekt har ansvar for at aftale med sekretariatet for initiativ 8.1, hvilke og hvornår reviews skal gennemføres. Sekretariatet for initiativ 8.1 har efter indgået aftale med projektet ansvar for at gennemføre reviews, udarbejde reviewrapporter samt sikre efterfølgende behandling i SDA. 
+Et projekt har ansvar for at aftale med sekretariatet for initiativ 8.1, hvilke og hvornår reviews skal gennemføres. Sekretariatet for initiativ 8.1 har efter indgået aftale med projektet ansvar for at gennemføre reviews, udarbejde reviewrapporter samt sikre efterfølgende behandling i UAS. 
 
 Referencearkitekturer skal underlægges offentlig kommentering, hvor myndigheder, leverandører, forskere og andre interesserede inviteres til at bidrage med faglige kommentarer med henblik på kvalitetssikring. Der kan for andre væsentlige elementer også aftales en offentlig kommentering.
 
@@ -502,7 +502,7 @@ Tekniske standarder og specifikationer analyseres med anvendelse af CAMSS (Commo
 
 Det påhviler det pågældende projekt, der ønsker at få optaget en standard eller en teknisk specifikation i rammearkitekturen, at gennemføre denne vurdering. Sekretariatet for initiativ 8.1 kan give rådgivning om analysemetoden efter aftale. Med henblik på overordnet koordinering bør sekretariatet for initiativ 8.1 repræsenteres i arbejdet med udvikling af referencearkitekturer. 
 
-Projektet og dets styregruppe eller SDA kan ønske, at et element afprøves, inden det godkendes som færdig leverance eller inden det optages i FDA. 
+Projektet og dets styregruppe eller UAS kan ønske, at et element afprøves, inden det godkendes som færdig leverance eller inden det optages i FDA. 
 
 Fx sætter specifikationer i form af datamodeller, integrationsmønstre og tekniske protokoller nye rammer og krav til digitaliseringsprojekter, som rammer dybt ind i de tekniske løsninger. Det er derfor centralt, at rammer og krav understøtter projekterne og den fællesoffentlige digitale arkitektur og ikke er en hindring. Mange projekter vil derfor have behov for, at der sker en afprøvning, en test af kvalitet, relevans og anvendelighed af produktet, før det godkendes til optagelse FDA Rammearkitektur.
 
@@ -513,11 +513,11 @@ Selve afprøvningen af et element vil som med elementer under udvikling ofte sty
 * At det overholder hvidbogens principper
 * At det overholder aftalte krav til egenskaber
 * At det har været gennem aftalt proces vedr. evt. rådgivning, arkitekturreview og offentlig kommentering
-* At det samlet set vurderes relevant, egnet og modent til optagelse og anvendelse af SDA. Sekretariatet indstiller på baggrund af de første tre kriterier
+* At det samlet set vurderes relevant, egnet og modent til optagelse og anvendelse af UAS. Sekretariatet indstiller på baggrund af de første tre kriterier
 
-Elementer i form af referencearkitekturer og byggeblokke, fx specifikationer og standarder, som frembringes i regi af FODS, godkendes af ansvarlig styregruppe. Efter godkendelse i ansvarlig styregruppe kan elementet optages i FDA Rammearkitektur ved beslutning af SDA. 
+Elementer i form af referencearkitekturer og byggeblokke, fx specifikationer og standarder, som frembringes i regi af FODS, godkendes af ansvarlig styregruppe. Efter godkendelse i ansvarlig styregruppe kan elementet optages i FDA Rammearkitektur ved beslutning af UAS. 
 
-Beslutning om optagelse i FDA Rammearkitektur sker ved forelæggelse for SDA under forudsætning af godkendelse i egen styregruppe, samt at krav til metode og procedurer er overholdt. Hertil skal krav og anbefalinger, som SDA har givet i forbindelse med tidligere behandling, herunder i forbindelse med arkitekturreview, iagttages.
+Beslutning om optagelse i FDA Rammearkitektur sker ved forelæggelse for UAS under forudsætning af godkendelse i egen styregruppe, samt at krav til metode og procedurer er overholdt. Hertil skal krav og anbefalinger, som UAS har givet i forbindelse med tidligere behandling, herunder i forbindelse med arkitekturreview, iagttages.
 
 I forbindelse med beslutning om optagelse skal der være en afklaret styring, eventuelt support og vedligehold, fremadrettet for det pågældende element, ligesom eventuelle kendte formaliserede krav til anvendelse af elementet klart skal fremgå i indstillingen. Efter at et element er besluttet optaget i FDA Rammearkitektur, skifter status for elementet til optaget. 
 
@@ -525,9 +525,9 @@ Når elementer er optaget i FDA rammearkitektur, bringes de formelt i anvendelse
 
 Sekretariatet for initiativ 8.1 understøtter, at elementer kan opmærkes med information om krav til deres anvendelse, og at denne information holdes opdateret.
 
-SDA monitorerer anvendelsen af FDA Rammearkitektur gennem arkitekturreviews og sekretariatet for initiativ 8.1’s rådgivning til projekterne. 
+UAS monitorerer anvendelsen af FDA Rammearkitektur gennem arkitekturreviews og sekretariatet for initiativ 8.1’s rådgivning til projekterne. 
 
-SDA har desuden ansvar for: 
+UAS har desuden ansvar for: 
 
 * Monitorering af anvendelse
 * Evaluering af værdiskabelsen
@@ -536,24 +536,24 @@ SDA har desuden ansvar for: 
 
 Modtagelse af feedback fra anvendere er en væsentlig del af monitoreringen. Modtagelse af feedback kan ske i regi af sekretariatet for initiativ 8.1 eller i regi af den aktør, der er ansvarlig for elementet. Det påhviler sekretariatet for initiativ 8.1 at sikre den praktiske koordinering af håndteringen af feedback.
 
-I forbindelse med implementering i et domæne kan der være behov for en profilering af en FDA-byggeblok, det kan fx være en semantisk standard i form af applikationsprofil, et meddelelsesformat eller en teknisk protokol. I givet fald skal det pågældende domæne sikre sig, at de overordnede standarder og retningslinjer overholdes. Hvis der er udfordringer ved dette skal sekretariatet kontaktes således, at eventuelle issues kan håndteres, og hvor det er relevant eskaleres til SDA. 
+I forbindelse med implementering i et domæne kan der være behov for en profilering af en FDA-byggeblok, det kan fx være en semantisk standard i form af applikationsprofil, et meddelelsesformat eller en teknisk protokol. I givet fald skal det pågældende domæne sikre sig, at de overordnede standarder og retningslinjer overholdes. Hvis der er udfordringer ved dette skal sekretariatet kontaktes således, at eventuelle issues kan håndteres, og hvor det er relevant eskaleres til UAS. 
 
-Sikring af vedligehold af elementet sker i dialog mellem pågældende ansvarlig for elementet og sekretariatet for initiativ 8.1. Sekretariatet kan på baggrund af denne dialog indstille til SDA, at elementet evalueres mhp. revision.
+Sikring af vedligehold af elementet sker i dialog mellem pågældende ansvarlig for elementet og sekretariatet for initiativ 8.1. Sekretariatet kan på baggrund af denne dialog indstille til UAS, at elementet evalueres mhp. revision.
 
-Revision planlægges på baggrund af indkomne emner i emneloggen. SDA kan indstille til relevante ansvarlige fora (styregrupper mv.), at der skal eller bør ske en revision af enkelte elementer som fx referencearkitekturer, specifikationer, vejledninger. 
+Revision planlægges på baggrund af indkomne emner i emneloggen. UAS kan indstille til relevante ansvarlige fora (styregrupper mv.), at der skal eller bør ske en revision af enkelte elementer som fx referencearkitekturer, specifikationer, vejledninger. 
 
 #### Proces for udfasning af elementer
 
 Kriterierne for beslutning om udfasning fra FDA omfatter:
 
-* At produktet af SDA vurderes ikke længere at være relevant eller at overholde opdaterede og aftalte krav til egenskaber
+* At produktet af UAS vurderes ikke længere at være relevant eller at overholde opdaterede og aftalte krav til egenskaber
 * At der er gennemført en analyse af konsekvenserne ved udfasning og aftalt en plan for håndtering af væsentlige udfordringer afledt af udfasning
 
 Forslag til udfasning kan komme fra alle aktører. Det kan eventuelt være aftalt på et tidligt tidspunkt fx i form af en model for versionshåndtering. 
 
 I forbindelse med aftale om nye elementer bør der samtidig ske en vurdering af, om det giver anledning til udfasning af andre elementer.
 
-SDA har det overordnede ansvar for koordinering af udfasning af elementer i rammearkitekturen såsom referencearkitekturer eller byggeblokke, herunder specifikationer og vejledninger eller fælles komponenter i form af open source applikationer eller itservices.
+UAS har det overordnede ansvar for koordinering af udfasning af elementer i rammearkitekturen såsom referencearkitekturer eller byggeblokke, herunder specifikationer og vejledninger eller fælles komponenter i form af open source applikationer eller itservices.
 
 Det endelige ansvar for udfasning påhviler den styregruppe eller lignende, som har ansvar for det pågældende element.
 
