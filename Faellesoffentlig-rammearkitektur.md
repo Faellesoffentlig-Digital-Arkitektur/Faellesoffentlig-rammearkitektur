@@ -210,7 +210,7 @@ Højre del af modellen kaldes også model over det digitale økosystem eller pop
 
 I FDA sammenhæng anvendes EIF-modellen i en lettere tilpasset form baseret på hvidbogens principper og de otte hovedperspektiver på arkitekturen, jf. nedenstående figur, der også viser, hvordan de otte FDA-perspektiver mappes til EIF. 
 
-![Figur5_FDA_profil_af_EIF begrebsmodel.svg](assets/Figur5_FDA_profil_af_EIF begrebsmodel.svg)
+![Figur5_FDA_profil_af_EIF begrebsmodel.svg](assets/Figur5_FDA_profil_af_EIF_begrebsmodel.svg)
 
 *Figur 5 FDA profil af EIF begrebsmodel*
 
